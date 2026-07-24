@@ -30,5 +30,37 @@
     "url": "http://visual6502.org/JSSim/index.html",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-07-24T10:35:46.988Z",
+    "id": "11b62d30",
+    "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+    "url": "https://github.com/onecli/onecli",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-07-24T10:35:47.939Z",
+    "id": "f42bd958",
+    "title": "xai-org/grok-build — SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+    "url": "https://github.com/xai-org/grok-build",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-07-24T10:35:48.888Z",
+    "id": "3ad306b4",
+    "title": "mereyabdenbekuly-ctrl/clodex-ide — Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+    "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-07-24T10:35:49.824Z",
+    "id": "9348fe9c",
+    "title": "Software rendering in 500 lines of bare C++",
+    "url": "https://haqr.eu/tinyrenderer/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
