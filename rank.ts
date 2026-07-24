@@ -11,10 +11,35 @@ async function ask(model: string, system: string, prompt: string, maxTokens = 40
     system,
     messages: [{ role: 'user', content: prompt }],
   });
-  return msg.content
+  const text = msg.content
     .filter((b): b is Anthropic.TextBlock => b.type === 'text')
     .map((b) => b.text)
     .join('');
+  if (!text.trim()) {
+    // 偶爾 API 會回空內容（stop_reason 常是 max_tokens 或 refusal），往上抛讓 askJson 重試
+    throw new Error(`模型回空內容（model=${model} stop_reason=${msg.stop_reason}）`);
+  }
+  return text;
+}
+
+/** 呼叫模型並解析 JSON，回空／回非 JSON 時重試，避免單次抖動就讓整支流程掛掉 */
+async function askJson<T>(
+  model: string,
+  system: string,
+  prompt: string,
+  maxTokens: number,
+  attempts = 3,
+): Promise<T> {
+  let lastErr: unknown;
+  for (let i = 1; i <= attempts; i++) {
+    try {
+      return extractJson<T>(await ask(model, system, prompt, maxTokens));
+    } catch (err) {
+      lastErr = err;
+      console.warn(`  精排/粗篩第 ${i}/${attempts} 次失敗，重試中：${(err as Error).message}`);
+    }
+  }
+  throw lastErr;
 }
 
 /** 模型偶爾會包 code fence 或加前言，容錯一下 */
@@ -57,8 +82,7 @@ ${list}
 只輸出 JSON 陣列，元素是 id 字串，不要任何其他文字。
 例：["a1b2c3d4","e5f6a7b8"]`;
 
-  const raw = await ask(CONFIG.models.prefilter, system, prompt, 2000);
-  const ids = new Set(extractJson<string[]>(raw));
+  const ids = new Set(await askJson<string[]>(CONFIG.models.prefilter, system, prompt, 2000));
   const kept = candidates.filter((c) => ids.has(c.id));
 
   // 模型亂回時的保底：至少要有東西進下一輪
@@ -113,8 +137,8 @@ ${list}
 
 {"picks":[{"id":"...","hook":"...","extensions":["...","..."],"wildcard":false,"why":"..."}]}`;
 
-  const raw = await ask(CONFIG.models.rank, system, prompt, 4000);
-  const parsed = extractJson<{ picks: Pick[] }>(raw);
+  // 4 則繁中推薦（hook+延伸+why）很吃 token，4000 會被截斷成不完整 JSON，給足餘裕
+  const parsed = await askJson<{ picks: Pick[] }>(CONFIG.models.rank, system, prompt, 8000);
 
   const valid = new Set(shortlist.map((c) => c.id));
   return parsed.picks.filter((p) => valid.has(p.id)).slice(0, CONFIG.picksPerDay);
