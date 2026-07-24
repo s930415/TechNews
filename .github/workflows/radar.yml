@@ -1,0 +1,57 @@
+name: tech-radar
+
+on:
+  schedule:
+    # 台灣時間 06:00 —— 收昨晚的回饋，然後推今天的
+    - cron: '0 22 * * *'
+    # 台灣時間 22:00 —— 只收回饋。
+    # 分兩次是因為 Telegram 的 getUpdates 只保留 24 小時，
+    # 一天撈一次會剛好踩在邊緣，漏掉深夜才點的回饋。
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+    inputs:
+      push:
+        description: '要不要順便推播'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tech-radar
+  cancel-in-progress: false
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - run: npm ci
+
+      # 先消化回饋，讓今天的推薦用到最新的興趣輪廓
+      - name: 收回饋
+        run: npm run collect
+
+      - name: 推播
+        if: github.event.schedule == '0 22 * * *' || inputs.push
+        run: npm run push
+
+      - name: 存回狀態
+        run: |
+          git config user.name  'tech-radar[bot]'
+          git config user.email 'tech-radar@users.noreply.github.com'
+          git add data/
+          git diff --staged --quiet || git commit -m "radar: $(date -u +%Y-%m-%d) 狀態更新"
+          git push

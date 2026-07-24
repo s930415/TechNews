@@ -1,0 +1,11 @@
+# secrets — 绝不上传
+.env
+
+# deps
+node_modules/
+
+# logs / os
+*.log
+.DS_Store
+
+# 注意：data/ 不要忽略 —— GitHub Actions 靠 commit data/ 来保存历史与兴趣轮廓
