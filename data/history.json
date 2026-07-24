@@ -62,5 +62,37 @@
     "url": "https://haqr.eu/tinyrenderer/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-07-24T10:42:42.806Z",
+    "id": "997dd6ab",
+    "title": "lopopolo/harness-engineering — 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+    "url": "https://github.com/lopopolo/harness-engineering",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-07-24T10:42:43.759Z",
+    "id": "6d0e7fa0",
+    "title": "The PImpl idiom and the C++26 std:indirect type",
+    "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-07-24T10:42:44.705Z",
+    "id": "a7d0116d",
+    "title": "I regret migrating to Codeberg",
+    "url": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-07-24T10:42:45.639Z",
+    "id": "0f535ae0",
+    "title": "A tour of MLIR: The Dialect Stack Everyone Depends On",
+    "url": "https://hiraditya.github.io/posts/mlir-dialect-stack-for-ml/",
+    "source": "lobsters",
+    "wildcard": true
   }
 ]
