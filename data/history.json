@@ -94,5 +94,37 @@
     "url": "https://hiraditya.github.io/posts/mlir-dialect-stack-for-ml/",
     "source": "lobsters",
     "wildcard": true
+  },
+  {
+    "at": "2026-07-28T07:55:23.904Z",
+    "id": "6641464f",
+    "title": "My current strategy is to not read any of the code written by my agents",
+    "url": "https://twitter.com/unclebobmartin/status/2080257779395154409?s=20",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-07-28T07:55:24.925Z",
+    "id": "ddb95146",
+    "title": "VictorTaelin/OptMem — Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+    "url": "https://github.com/VictorTaelin/OptMem",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-07-28T07:55:25.982Z",
+    "id": "6f12073b",
+    "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
+    "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-07-28T07:55:27.026Z",
+    "id": "6bd28ead",
+    "title": "Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks",
+    "url": "https://pranitha.dev/posts/tokio-gives-progress-not-ordering/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
