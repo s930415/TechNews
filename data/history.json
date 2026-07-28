@@ -126,5 +126,37 @@
     "url": "https://pranitha.dev/posts/tokio-gives-progress-not-ordering/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-07-28T22:03:23.628Z",
+    "id": "62b7a2b2",
+    "title": "The Orchestrator's Tax",
+    "url": "https://martinfowler.com/articles/orchestrator-tax.html",
+    "source": "rss",
+    "wildcard": false
+  },
+  {
+    "at": "2026-07-28T22:03:24.644Z",
+    "id": "a47caeb2",
+    "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+    "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-07-28T22:03:25.673Z",
+    "id": "d3b28b1b",
+    "title": "How building software is changing at Anthropic",
+    "url": "https://newsletter.pragmaticengineer.com/p/inside-anthropic",
+    "source": "rss",
+    "wildcard": false
+  },
+  {
+    "at": "2026-07-28T22:03:26.696Z",
+    "id": "4629cda4",
+    "title": "How Do I Profile eBPF Code?",
+    "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
