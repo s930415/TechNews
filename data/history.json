@@ -158,5 +158,37 @@
     "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-07-29T22:04:00.559Z",
+    "id": "a02c8e7a",
+    "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+    "url": "https://arxiv.org/abs/2607.25398",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-07-29T22:04:01.581Z",
+    "id": "2cf56faf",
+    "title": "SpecForge – A Platform for Authoring Formal Specifications",
+    "url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-07-29T22:04:02.605Z",
+    "id": "37c0e3e1",
+    "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
+    "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-07-29T22:04:03.618Z",
+    "id": "18286c8c",
+    "title": "Cracking Windows Open: Porting RADV to Win32",
+    "url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
+    "source": "hn",
+    "wildcard": true
   }
 ]
