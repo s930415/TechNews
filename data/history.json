@@ -190,5 +190,37 @@
     "url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-07-30T22:05:33.156Z",
+    "id": "4743d6bd",
+    "title": "Show HN: A local merge queue for parallel Claude Code agents",
+    "url": "https://github.com/funador/claude-code-merge-queue",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-07-30T22:05:34.177Z",
+    "id": "eb799eb1",
+    "title": "Stacked PRs are now live on GitHub",
+    "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-07-30T22:05:35.209Z",
+    "id": "de0c8b1b",
+    "title": "OpenJDK Interim Policy on Generative AI",
+    "url": "https://openjdk.org/legal/ai",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-07-30T22:05:36.418Z",
+    "id": "1ca28227",
+    "title": "CosmosEscape: Taking over Every Database in Azure Cosmos DB",
+    "url": "https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db",
+    "source": "hn",
+    "wildcard": true
   }
 ]
