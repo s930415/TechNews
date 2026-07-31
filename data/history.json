@@ -222,5 +222,37 @@
     "url": "https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-07-31T22:03:04.747Z",
+    "id": "c3b2c774",
+    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-07-31T22:03:05.765Z",
+    "id": "353246c0",
+    "title": "AI productivity gains are closer to 10% than 10x",
+    "url": "https://leaddev.com/reporting/ai-productivity-gains-are-closer-to-10-than-10x",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-07-31T22:03:06.770Z",
+    "id": "13350963",
+    "title": "Everyone is building LLM routers, we deprecated ours",
+    "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-07-31T22:03:07.773Z",
+    "id": "34c95259",
+    "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
+    "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
