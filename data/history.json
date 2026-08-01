@@ -254,5 +254,37 @@
     "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-01T22:03:08.120Z",
+    "id": "eebbdb6a",
+    "title": "Pgtestdb's template cloning approach to testing is fast",
+    "url": "https://brandur.org/fragments/pgtestdb",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-01T22:03:09.156Z",
+    "id": "938e3e7d",
+    "title": "The development pipeline is a production system",
+    "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-01T22:03:10.170Z",
+    "id": "e4aeb731",
+    "title": "Accepting a messy git history",
+    "url": "https://beza1e1.tuxen.de/git_two_users.html",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-01T22:03:11.185Z",
+    "id": "657ab357",
+    "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+    "url": "https://arxiv.org/abs/2607.28233",
+    "source": "hn",
+    "wildcard": true
   }
 ]
