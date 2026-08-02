@@ -286,5 +286,37 @@
     "url": "https://arxiv.org/abs/2607.28233",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-02T22:04:03.675Z",
+    "id": "b117854c",
+    "title": "Diátaxis",
+    "url": "https://diataxis.fr/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-02T22:04:04.686Z",
+    "id": "25b8bb68",
+    "title": "QoderAI/better-harness — Better Harness turns project and session evidence into loop-level insights, prioritized improvements, and verifiable next steps—inside the coding agent you already use.",
+    "url": "https://github.com/QoderAI/better-harness",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-02T22:04:05.699Z",
+    "id": "974d5368",
+    "title": "microsoft/skill-recorder — Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automati",
+    "url": "https://github.com/microsoft/skill-recorder",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-02T22:04:06.719Z",
+    "id": "e489345f",
+    "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+    "url": "https://github.com/wie-project/kakehashi",
+    "source": "hn",
+    "wildcard": true
   }
 ]
