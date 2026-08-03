@@ -318,5 +318,37 @@
     "url": "https://github.com/wie-project/kakehashi",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-03T22:04:15.376Z",
+    "id": "4871c646",
+    "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
+    "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-03T22:04:16.391Z",
+    "id": "d93973cd",
+    "title": "Reliability Lessons From SQLite",
+    "url": "https://www.youtube.com/watch?v=V_qzqY1bb7I",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-03T22:04:17.404Z",
+    "id": "a702bd37",
+    "title": "AI migrated legacy COBOL programs to Java, bugs included",
+    "url": "https://arxiv.org/abs/2607.28271",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-03T22:04:18.419Z",
+    "id": "e75f7e42",
+    "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+    "url": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
+    "source": "hn",
+    "wildcard": true
   }
 ]
