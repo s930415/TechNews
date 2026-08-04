@@ -350,5 +350,37 @@
     "url": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-04T22:04:26.107Z",
+    "id": "69fd2a8c",
+    "title": "Agent skills that bring team coding standards to Claude Code and Codex",
+    "url": "https://github.com/tikalk/adlc-team-skills",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-04T22:04:27.119Z",
+    "id": "0a860ab6",
+    "title": "\"Clean\" Code, Horrible Performance (2023)",
+    "url": "https://www.computerenhance.com/p/clean-code-horrible-performance",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-04T22:04:28.131Z",
+    "id": "da2d8fe5",
+    "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+    "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-04T22:04:29.158Z",
+    "id": "c343395b",
+    "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "url": "https://toneyalexander.github.io/inclusive-color-space/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
