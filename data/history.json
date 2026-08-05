@@ -382,5 +382,37 @@
     "url": "https://toneyalexander.github.io/inclusive-color-space/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-05T22:04:35.266Z",
+    "id": "06d0cdff",
+    "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+    "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-05T22:04:36.275Z",
+    "id": "212cb586",
+    "title": "Building an Advanced Agentic Harness",
+    "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-05T22:04:37.292Z",
+    "id": "f35de892",
+    "title": "How to Find Bugs in Systems That Don't Exist",
+    "url": "https://www.youtube.com/watch?v=zSZkLyD9ILI",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-05T22:04:38.301Z",
+    "id": "64505a7b",
+    "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+    "url": "https://arxiv.org/abs/2603.04221",
+    "source": "hn",
+    "wildcard": true
   }
 ]
