@@ -414,5 +414,37 @@
     "url": "https://arxiv.org/abs/2603.04221",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-06T22:03:27.908Z",
+    "id": "bd6f2df9",
+    "title": "Infrastructure Gravity & Domain Engineering",
+    "url": "https://jackdanger.com/infrastructure-gravity/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-06T22:03:28.918Z",
+    "id": "39f035de",
+    "title": "How Compiler Explorer Runs on AWS in 2026",
+    "url": "https://xania.org/202608/how-compiler-explorer-runs-on-aws",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-06T22:03:29.927Z",
+    "id": "ae3b061c",
+    "title": "Zapscape (CVE-2026-64561): Guest-to-Host Escape in KVM/x86",
+    "url": "https://github.com/V4bel/Zapscape",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-06T22:03:30.934Z",
+    "id": "b64d78a6",
+    "title": "The following is a valid DOS COM executable",
+    "url": "https://oldbytes.space/@gloriouscow/117045701876951834",
+    "source": "lobsters",
+    "wildcard": true
   }
 ]
