@@ -27,3 +27,7 @@
 {"at":"2026-08-04T14:00:03.088Z","id":"a702bd37","title":"AI migrated legacy COBOL programs to Java, bugs included","url":"https://arxiv.org/abs/2607.28271","source":"hn","verdict":"like","wildcard":false}
 {"at":"2026-08-04T14:00:03.089Z","id":"e75f7e42","title":"Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge","url":"https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration","source":"hn","verdict":"like","wildcard":true}
 {"at":"2026-08-05T14:00:02.826Z","id":"c343395b","title":"Show HN: Simple algorithm and color space to generate diverse skin tones","url":"https://toneyalexander.github.io/inclusive-color-space/","source":"hn","verdict":"like","wildcard":true}
+{"at":"2026-08-07T14:00:02.583Z","id":"ae3b061c","title":"Zapscape (CVE-2026-64561): Guest-to-Host Escape in KVM/x86","url":"https://github.com/V4bel/Zapscape","source":"hn","verdict":"like","wildcard":false}
+{"at":"2026-08-07T14:00:02.585Z","id":"b64d78a6","title":"The following is a valid DOS COM executable","url":"https://oldbytes.space/@gloriouscow/117045701876951834","source":"lobsters","verdict":"like","wildcard":true}
+{"at":"2026-08-07T14:00:02.585Z","id":"39f035de","title":"How Compiler Explorer Runs on AWS in 2026","url":"https://xania.org/202608/how-compiler-explorer-runs-on-aws","source":"lobsters","verdict":"like","wildcard":false}
+{"at":"2026-08-07T14:00:02.585Z","id":"bd6f2df9","title":"Infrastructure Gravity & Domain Engineering","url":"https://jackdanger.com/infrastructure-gravity/","source":"lobsters","verdict":"like","wildcard":false}
