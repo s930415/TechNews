@@ -446,5 +446,37 @@
     "url": "https://oldbytes.space/@gloriouscow/117045701876951834",
     "source": "lobsters",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-07T22:03:08.858Z",
+    "id": "a1d099e6",
+    "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+    "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-07T22:03:09.882Z",
+    "id": "13930014",
+    "title": "Mythos Attempted to Social Engineer Open Source Maintainer to Merge Malware",
+    "url": "https://socket.dev/blog/ai-agent-open-source-malware",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-07T22:03:10.891Z",
+    "id": "9efeabcc",
+    "title": "A year of fighting scrapers on my 1.5 million-page website",
+    "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-07T22:03:11.970Z",
+    "id": "6b0df7e8",
+    "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
+    "url": "https://github.com/mattdeeds/pokeemerald-rp2350",
+    "source": "hn",
+    "wildcard": true
   }
 ]
