@@ -478,5 +478,37 @@
     "url": "https://github.com/mattdeeds/pokeemerald-rp2350",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-08T22:04:25.515Z",
+    "id": "4fffe919",
+    "title": "Managing AI Coding Costs at Scale",
+    "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-08T22:04:26.544Z",
+    "id": "176c3e66",
+    "title": "Hardware backdoors in some x86 CPUs",
+    "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-08T22:04:27.555Z",
+    "id": "09d92b48",
+    "title": "Revision Prompting improves industrial LLM processes",
+    "url": "https://revisionprompting.info/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-08T22:04:28.565Z",
+    "id": "12c450a3",
+    "title": "Voyager 1 FDS Computer Emulator",
+    "url": "https://zaneham.github.io/voyager-fds-emulator/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
