@@ -510,5 +510,37 @@
     "url": "https://zaneham.github.io/voyager-fds-emulator/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-09T22:03:15.238Z",
+    "id": "7ef61f2e",
+    "title": "We replaced Redis with MySQL for inventory reservations and it scaled",
+    "url": "https://shopify.engineering/scaling-inventory-reservations",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-09T22:03:16.263Z",
+    "id": "017bee0f",
+    "title": "Commit message test plans",
+    "url": "https://blog.waleedkhan.name/commit-message-test-plans/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-09T22:03:17.280Z",
+    "id": "268943c0",
+    "title": "OpenChamber: An Agentic Development Environment",
+    "url": "https://openchamber.dev/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-09T22:03:18.302Z",
+    "id": "226d6abb",
+    "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
+    "url": "https://halfhill.com/byte/1998-12_alpha.html",
+    "source": "hn",
+    "wildcard": true
   }
 ]
