@@ -542,5 +542,37 @@
     "url": "https://halfhill.com/byte/1998-12_alpha.html",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-10T22:03:20.293Z",
+    "id": "5ba2f6fd",
+    "title": "Exploiting System Management Mode with a very long interrupt",
+    "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-10T22:03:21.334Z",
+    "id": "fa838c67",
+    "title": "Ship Small Diffs (2017)",
+    "url": "https://mcfunley.com/ship-small-diffs",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-10T22:03:22.363Z",
+    "id": "302ad6f0",
+    "title": "How We Pushed CDC into Postgres",
+    "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-10T22:03:23.379Z",
+    "id": "9e22316a",
+    "title": "Re-balancing Deflate Compression Levels (2016)",
+    "url": "https://blog.klauspost.com/rebalancing-deflate-compression-levels/",
+    "source": "lobsters",
+    "wildcard": true
   }
 ]
