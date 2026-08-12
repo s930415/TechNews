@@ -606,5 +606,37 @@
     "url": "https://ngrok.com/blog/compression-is-prediction",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-12T22:03:40.673Z",
+    "id": "e4adc33c",
+    "title": "Hax – a minimalist, terminal-native coding agent written in C",
+    "url": "https://usehax.dev/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-12T22:03:41.685Z",
+    "id": "55000679",
+    "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-12T22:03:42.694Z",
+    "id": "e29a45fb",
+    "title": "Go is an ideal language for AI-assisted software engineering",
+    "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-12T22:03:43.713Z",
+    "id": "1c6cb5cf",
+    "title": "Making holograms with a pen plotter",
+    "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
