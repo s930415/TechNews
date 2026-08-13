@@ -638,5 +638,37 @@
     "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-13T22:04:08.994Z",
+    "id": "0d0766da",
+    "title": "Understanding is the new bottleneck",
+    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-13T22:04:10.013Z",
+    "id": "58748291",
+    "title": "Let Them Write RFCs",
+    "url": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-13T22:04:11.027Z",
+    "id": "dd53fcf3",
+    "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
+    "url": "https://github.com/fellowgeek/mcp-memory",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-13T22:04:12.047Z",
+    "id": "7a470e4f",
+    "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+    "url": "https://github.com/systemd/systemd/issues/40262",
+    "source": "hn",
+    "wildcard": true
   }
 ]
