@@ -670,5 +670,37 @@
     "url": "https://github.com/systemd/systemd/issues/40262",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-14T22:04:06.625Z",
+    "id": "64015dd1",
+    "title": "How Compaction Works in Pi",
+    "url": "https://earendil.com/posts/compaction-in-pi/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-14T22:04:07.636Z",
+    "id": "0cf41b51",
+    "title": "Comments in the code vs PR description",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-14T22:04:08.644Z",
+    "id": "ad019783",
+    "title": "Let's not call it \"tech debt,\" it's just \"mess\"",
+    "url": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-14T22:04:09.677Z",
+    "id": "35f3a67f",
+    "title": "How Gödel's Proof Works (2020)",
+    "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
