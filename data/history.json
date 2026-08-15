@@ -702,5 +702,37 @@
     "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-15T22:03:09.941Z",
+    "id": "e2589713",
+    "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+    "url": "https://arxiv.org/abs/2608.12700",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-15T22:03:10.954Z",
+    "id": "e80e5260",
+    "title": "Stop sending me huge PRs; a rant",
+    "url": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-15T22:03:12.005Z",
+    "id": "1d99f72c",
+    "title": "dmmulroy/anti-slop — Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+    "url": "https://github.com/dmmulroy/anti-slop",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-15T22:03:13.022Z",
+    "id": "0ad4bc76",
+    "title": "How 2004 RuneScape fit a multiplayer RPG into 56k dial-up",
+    "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
+    "source": "lobsters",
+    "wildcard": true
   }
 ]
