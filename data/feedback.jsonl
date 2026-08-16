@@ -41,3 +41,5 @@
 {"at":"2026-08-15T14:00:02.341Z","id":"64015dd1","title":"How Compaction Works in Pi","url":"https://earendil.com/posts/compaction-in-pi/","source":"hn","verdict":"like","wildcard":false}
 {"at":"2026-08-15T14:00:02.341Z","id":"35f3a67f","title":"How Gödel's Proof Works (2020)","url":"https://www.quantamagazine.org/how-godels-proof-works-20200714/","source":"hn","verdict":"like","wildcard":true}
 {"at":"2026-08-15T22:00:01.924Z","id":"ad019783","title":"Let's not call it \"tech debt,\" it's just \"mess\"","url":"https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/","source":"lobsters","verdict":"like","wildcard":false}
+{"at":"2026-08-16T14:00:02.324Z","id":"e2589713","title":"A Contract-Grade Verifier for LLM-Generated GPU Kernels","url":"https://arxiv.org/abs/2608.12700","source":"hn","verdict":"like","wildcard":false}
+{"at":"2026-08-16T14:00:02.324Z","id":"1d99f72c","title":"dmmulroy/anti-slop — Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns","url":"https://github.com/dmmulroy/anti-slop","source":"github","verdict":"like","wildcard":false}

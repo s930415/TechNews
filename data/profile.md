@@ -1,15 +1,16 @@
 # 興趣輪廓
 
-最後更新：2026-08-03（依據 24 筆回饋）
+最後更新：2026-08-16（依據 45 筆回饋）
 
 ## 核心命中
 
 - 軟體設計方法論：DDD、TDD、SDD、EventStorming、Hexagonal / Clean Architecture、形式化規格撰寫（SpecForge 類工具）
 - 開發流程自動化：git hooks、husky、lint-staged、commitlint、CI 守門機制、把開發管線當成正式生產系統看待
-- AI coding agent 的工程化：規則檔設計、context 管理、skills / subagents、agent 邊界劃分、多 agent 協作（merge queue、LLM router 自建/棄用經驗）
-- 讓 AI 產出可被驗證的工程手法：規格先行、契約測試、架構相依性檢查、AI 輔助抓漏的實證案例（如 Chrome bug fix）
-- 團隊層級的工程實踐：code review 流程（含 stacked PR）、trunk-based development、技術債處理、接受不完美的 git history
-- 開發工具鏈與 AI agent 的資安：npm / GitHub Actions 供應鏈攻擊防禦、agent 憑證與機密管理、雲端與硬體層級的深度漏洞剖析（如 Cosmos DB、RowHammer）
+- AI coding agent 的工程化：規則檔設計、context 管理與 compaction、agent memory（如 MCP Memory）、skills / subagents、agent 邊界劃分、多 agent 協作（merge queue、LLM router 自建/棄用經驗）
+- 讓 AI 產出可被驗證的工程手法：規格先行、契約測試（含 LLM 產生 GPU kernel 的 contract-grade verifier）、架構相依性檢查、AI 輔助抓漏與程式碼遷移實證案例（Chrome bug fix、COBOL→Java 遷移）
+- 團隊層級的工程實踐：code review 流程（含 stacked PR、code comments vs PR description 之爭）、trunk-based development、技術債／「就是一團亂」的處理態度、接受不完美的 git history
+- 開發工具鏈與 AI agent 的資安：npm / GitHub Actions 供應鏈攻擊防禦、agent 憑證與機密管理、雲端與硬體層級的深度漏洞剖析（Cosmos DB、RowHammer、KVM guest-to-host escape）
+- 資料庫內部機制與效能工程：SQLite 可靠性與 WAL 除錯故事（Tailscale 案例）、Postgres 分析查詢效能優化（SIMD／operator fusion）、資料庫選型 tradeoff（Redis vs MySQL）、測試資料庫技巧（pgtestdb template cloning）
 
 ## 已知道，別再推入門篇
 
@@ -26,7 +27,8 @@
 
 - 低階系統／繪圖驅動移植（如 RADV 移植到 Win32）
 - 大規模資料查詢引擎的資源效率（如用 10GB RAM 跑十億級圖的 DataFusion）
-- 純方法論框架類文章（如 Diátaxis）反應冷淡，待更多訊號判斷
+- 大型系統維運與基礎設施戰記（如 Compiler Explorer 雲端部署、長期對抗爬蟲、Infrastructure Gravity）
+- 純方法論框架類文章（如 Diátaxis）持續反應冷淡，待更多訊號判斷
 
 ## 手動指定
 
