@@ -734,5 +734,37 @@
     "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
     "source": "lobsters",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-16T22:03:40.097Z",
+    "id": "af863cb3",
+    "title": "Patterns and problems in emerging multi-agent systems",
+    "url": "https://www.anthropic.com/research/multiagent-systems",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-16T22:03:41.138Z",
+    "id": "7562ac74",
+    "title": "AI Coding Without the Vibes",
+    "url": "https://peterbloem.nl/blog/craft-coding",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-16T22:03:42.146Z",
+    "id": "c3c4b856",
+    "title": "xoreaxeaxeax/skitter-creek-bath-salts — Unlocking _everything_ on the CPU with DRAM scrambling",
+    "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-16T22:03:43.166Z",
+    "id": "824c0c93",
+    "title": "Guiding Ships with Moire Patterns (2018)",
+    "url": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
