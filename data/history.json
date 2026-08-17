@@ -766,5 +766,37 @@
     "url": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-17T22:03:52.231Z",
+    "id": "f429ee65",
+    "title": "The Case Against Formal Verification, 50 Years Later",
+    "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-17T22:03:53.346Z",
+    "id": "fda01854",
+    "title": "Thinking about tests: assertions and matchers",
+    "url": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-17T22:03:54.367Z",
+    "id": "a0e7ec22",
+    "title": "How to ship a database every day",
+    "url": "https://turbopuffer.com/blog/control-plane",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-17T22:03:55.387Z",
+    "id": "32e1c7a9",
+    "title": "How to put 170 atoms in an atom",
+    "url": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
