@@ -798,5 +798,37 @@
     "url": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-18T22:05:54.169Z",
+    "id": "8797c3b6",
+    "title": "antirez/h3.c — MiniMax H3 inference engine for Mac computers",
+    "url": "https://github.com/antirez/h3.c",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-18T22:05:55.180Z",
+    "id": "e81d1903",
+    "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+    "url": "https://arxiv.org/abs/2608.13759",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-18T22:05:56.207Z",
+    "id": "37cacdbf",
+    "title": "Composable Tests",
+    "url": "https://newsletter.kentbeck.com/p/composable-tests",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-18T22:05:57.225Z",
+    "id": "36d27d0d",
+    "title": "Using the railway network as a flatbed scanner",
+    "url": "https://philo.gay/linecam/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
