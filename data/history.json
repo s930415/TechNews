@@ -830,5 +830,37 @@
     "url": "https://philo.gay/linecam/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-19T22:04:19.091Z",
+    "id": "e157d44c",
+    "title": "Liquid Types as a behavioural sandbox for agents",
+    "url": "https://wiki.alcidesfonseca.com/blog/aeonbox-logical-guardrails-for-agents/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-19T22:04:20.119Z",
+    "id": "cb08e9af",
+    "title": "Git at Any Scale",
+    "url": "https://cursor.com/blog/git-at-any-scale",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-19T22:04:21.136Z",
+    "id": "f37f0d78",
+    "title": "Claude Code teaching macOS to natively print to the HP Laser 1008a",
+    "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-19T22:04:22.146Z",
+    "id": "5f14b6e4",
+    "title": "Geolocating a random island using geometry and CUDA programming",
+    "url": "https://yassa9.github.io/osint/gralhix-004/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
