@@ -47,3 +47,7 @@
 {"at":"2026-08-18T14:00:02.600Z","id":"fda01854","title":"Thinking about tests: assertions and matchers","url":"https://zverok.space/blog/2026-08-16-assertions-and-matchers.html","source":"lobsters","verdict":"like","wildcard":false}
 {"at":"2026-08-18T14:00:02.600Z","id":"a0e7ec22","title":"How to ship a database every day","url":"https://turbopuffer.com/blog/control-plane","source":"hn","verdict":"like","wildcard":false}
 {"at":"2026-08-18T14:00:02.601Z","id":"32e1c7a9","title":"How to put 170 atoms in an atom","url":"https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/","source":"hn","verdict":"dislike","wildcard":true}
+{"at":"2026-08-19T14:00:02.540Z","id":"8797c3b6","title":"antirez/h3.c — MiniMax H3 inference engine for Mac computers","url":"https://github.com/antirez/h3.c","source":"github","verdict":"dislike","wildcard":false}
+{"at":"2026-08-19T14:00:02.541Z","id":"e81d1903","title":"GPU Offload in Rust: Portable, Safe, and Fast","url":"https://arxiv.org/abs/2608.13759","source":"hn","verdict":"like","wildcard":false}
+{"at":"2026-08-19T14:00:02.541Z","id":"37cacdbf","title":"Composable Tests","url":"https://newsletter.kentbeck.com/p/composable-tests","source":"hn","verdict":"like","wildcard":false}
+{"at":"2026-08-19T14:00:02.541Z","id":"36d27d0d","title":"Using the railway network as a flatbed scanner","url":"https://philo.gay/linecam/","source":"hn","verdict":"like","wildcard":true}
