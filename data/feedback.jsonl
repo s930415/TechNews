@@ -51,3 +51,7 @@
 {"at":"2026-08-19T14:00:02.541Z","id":"e81d1903","title":"GPU Offload in Rust: Portable, Safe, and Fast","url":"https://arxiv.org/abs/2608.13759","source":"hn","verdict":"like","wildcard":false}
 {"at":"2026-08-19T14:00:02.541Z","id":"37cacdbf","title":"Composable Tests","url":"https://newsletter.kentbeck.com/p/composable-tests","source":"hn","verdict":"like","wildcard":false}
 {"at":"2026-08-19T14:00:02.541Z","id":"36d27d0d","title":"Using the railway network as a flatbed scanner","url":"https://philo.gay/linecam/","source":"hn","verdict":"like","wildcard":true}
+{"at":"2026-08-20T14:00:02.193Z","id":"5f14b6e4","title":"Geolocating a random island using geometry and CUDA programming","url":"https://yassa9.github.io/osint/gralhix-004/","source":"hn","verdict":"like","wildcard":true}
+{"at":"2026-08-20T14:00:02.193Z","id":"f37f0d78","title":"Claude Code teaching macOS to natively print to the HP Laser 1008a","url":"https://cdn.kuber.studio/chat/hp-laser-1008a-driver","source":"hn","verdict":"like","wildcard":false}
+{"at":"2026-08-20T14:00:02.194Z","id":"cb08e9af","title":"Git at Any Scale","url":"https://cursor.com/blog/git-at-any-scale","source":"hn","verdict":"like","wildcard":false}
+{"at":"2026-08-20T14:00:02.194Z","id":"e157d44c","title":"Liquid Types as a behavioural sandbox for agents","url":"https://wiki.alcidesfonseca.com/blog/aeonbox-logical-guardrails-for-agents/","source":"lobsters","verdict":"like","wildcard":false}
