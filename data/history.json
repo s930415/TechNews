@@ -862,5 +862,37 @@
     "url": "https://yassa9.github.io/osint/gralhix-004/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-20T22:03:21.017Z",
+    "id": "e2f1f03b",
+    "title": "Malicious Rust crate Arrayref runs a build-time payload",
+    "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-20T22:03:22.039Z",
+    "id": "8908f6c8",
+    "title": "The Pulse: We need to talk about migrations with AI",
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-we-need-to-talk-about-migrations",
+    "source": "rss",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-20T22:03:23.055Z",
+    "id": "6ffa5fd2",
+    "title": "GitHub, autoscaling, and the component substitution fallacy",
+    "url": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-20T22:03:24.070Z",
+    "id": "14d04233",
+    "title": "Turns are Better than Radians (2022)",
+    "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+    "source": "hn",
+    "wildcard": true
   }
 ]
