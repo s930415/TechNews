@@ -926,5 +926,37 @@
     "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-22T22:03:55.120Z",
+    "id": "31ef8ebb",
+    "title": "Rust Glancer: Rust LSP using 100x less RAM",
+    "url": "https://rust-glancer.github.io/blog/hello-world/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-22T22:03:56.140Z",
+    "id": "986d50ac",
+    "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
+    "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-22T22:03:57.161Z",
+    "id": "7b8d3d36",
+    "title": "What happens when a GPU reads memory",
+    "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-22T22:03:58.174Z",
+    "id": "a0a832e9",
+    "title": "Show HN: Rotation via Double Reflection",
+    "url": "https://static.laszlokorte.de/rotor-reflect/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
