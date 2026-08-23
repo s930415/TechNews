@@ -958,5 +958,37 @@
     "url": "https://static.laszlokorte.de/rotor-reflect/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-23T22:04:38.674Z",
+    "id": "d191ca37",
+    "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+    "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-23T22:04:39.687Z",
+    "id": "ef250941",
+    "title": "Are 15% of all commits fixes? (2025)",
+    "url": "https://carvalho.sh/posts/2025-07-29-are-15-of-all-commits-fixes/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-23T22:04:40.698Z",
+    "id": "304760d4",
+    "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+    "url": "https://twitter.com/argofowl/status/2091150597374537729",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-23T22:04:41.710Z",
+    "id": "99609a67",
+    "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+    "url": "https://martypc.net/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
