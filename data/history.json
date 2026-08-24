@@ -990,5 +990,37 @@
     "url": "https://martypc.net/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-24T22:03:52.792Z",
+    "id": "451496f8",
+    "title": "My agent.md to improve LLM-assisted code quality",
+    "url": "https://fabiensanglard.net/agent.md/index.html",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-24T22:03:53.810Z",
+    "id": "b8360136",
+    "title": "Control and complexity: tension in systems design",
+    "url": "https://ferd.ca/control-and-complexity-tension-in-systems-design.html",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-24T22:03:54.826Z",
+    "id": "54126e1e",
+    "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+    "url": "https://picomq.com/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-24T22:03:55.852Z",
+    "id": "0c0154a8",
+    "title": "Implementation of GPT-2 in pure CMake",
+    "url": "https://github.com/AlpinDale/gpt2.cmake",
+    "source": "hn",
+    "wildcard": true
   }
 ]
