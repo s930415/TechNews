@@ -1022,5 +1022,37 @@
     "url": "https://github.com/AlpinDale/gpt2.cmake",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-25T22:03:13.321Z",
+    "id": "4e66e71e",
+    "title": "Why Ramp built its own in-house coding agent, Inspect",
+    "url": "https://newsletter.pragmaticengineer.com/p/why-ramp-built-inspect",
+    "source": "rss",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-25T22:03:14.339Z",
+    "id": "825bdc91",
+    "title": "Fences, Not Sandboxes",
+    "url": "https://yegge.ai/essays/fences-not-sandboxes/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-25T22:03:15.367Z",
+    "id": "737cfb55",
+    "title": "A Tale of Two SOCs: Insights From Two Red Team Assessments",
+    "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-237a",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-25T22:03:16.393Z",
+    "id": "1f713feb",
+    "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
+    "url": "https://glassbox.codecanary.org",
+    "source": "hn",
+    "wildcard": true
   }
 ]
