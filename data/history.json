@@ -1054,5 +1054,37 @@
     "url": "https://glassbox.codecanary.org",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-26T22:03:02.680Z",
+    "id": "489929a1",
+    "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+    "url": "https://arxiv.org/abs/2607.21503",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-26T22:03:03.688Z",
+    "id": "22dba9e7",
+    "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+    "url": "https://github.com/runetes/maiao",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-26T22:03:04.695Z",
+    "id": "788dfb25",
+    "title": "When str.lower() is a security vulnerability in Python",
+    "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-26T22:03:05.711Z",
+    "id": "c452b108",
+    "title": "Memory Ordering in CPUs",
+    "url": "https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
