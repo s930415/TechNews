@@ -1086,5 +1086,37 @@
     "url": "https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-27T22:03:30.699Z",
+    "id": "1594dec7",
+    "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+    "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-27T22:03:31.726Z",
+    "id": "0dcbe660",
+    "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+    "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-27T22:03:32.766Z",
+    "id": "06886439",
+    "title": "The Harness Is the Thing",
+    "url": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-27T22:03:33.790Z",
+    "id": "298520e4",
+    "title": "507 Mechanical Movements",
+    "url": "https://507movements.com/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
