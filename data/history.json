@@ -1118,5 +1118,37 @@
     "url": "https://507movements.com/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-28T22:05:48.858Z",
+    "id": "10bff6cc",
+    "title": "Change-Detector Tests Considered Harmful (2015)",
+    "url": "https://testing.googleblog.com/2015/01/testing-on-toilet-change-detector-tests.html",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-28T22:05:49.913Z",
+    "id": "7498e6bd",
+    "title": "Bootstrappable Builds: How and Why",
+    "url": "https://lwn.net/Articles/1088279/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-28T22:05:51.009Z",
+    "id": "fb181c2b",
+    "title": "Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",
+    "url": "https://github.com/kelviq/tare",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-28T22:05:52.066Z",
+    "id": "b79c60a6",
+    "title": "Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits",
+    "url": "https://www.hanselman.com/blog/debugging-my-new-network-when-10-gigabit-ethernet-runs-at-300-megabits",
+    "source": "hn",
+    "wildcard": true
   }
 ]
