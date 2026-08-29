@@ -1150,5 +1150,37 @@
     "url": "https://www.hanselman.com/blog/debugging-my-new-network-when-10-gigabit-ethernet-runs-at-300-megabits",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-29T22:05:22.753Z",
+    "id": "12adde40",
+    "title": "I accidentally turned LLM memory into program analysis",
+    "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-29T22:05:23.793Z",
+    "id": "8eae3aea",
+    "title": "duty1g/x64dbg-mcp-server — x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistan",
+    "url": "https://github.com/duty1g/x64dbg-mcp-server",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-29T22:05:24.822Z",
+    "id": "99281737",
+    "title": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
+    "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-29T22:05:25.845Z",
+    "id": "c96e805b",
+    "title": "Parsing the Infamous Japanese Postal CSV",
+    "url": "https://www.dampfkraft.com/posuto.html",
+    "source": "hn",
+    "wildcard": true
   }
 ]
