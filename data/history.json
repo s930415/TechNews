@@ -1182,5 +1182,37 @@
     "url": "https://www.dampfkraft.com/posuto.html",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-30T22:03:36.755Z",
+    "id": "fb0085bc",
+    "title": "A safe MySQL upgrade that wasn't so safe",
+    "url": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-30T22:03:37.765Z",
+    "id": "ee5f9d54",
+    "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+    "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-30T22:03:38.777Z",
+    "id": "773e6152",
+    "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+    "url": "https://github.com/anthropics/claude-code/issues/66504",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-30T22:03:39.785Z",
+    "id": "b89143fb",
+    "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+    "url": "https://komoroske.com/slime-mold/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
