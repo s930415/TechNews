@@ -1214,5 +1214,37 @@
     "url": "https://komoroske.com/slime-mold/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-08-31T22:04:49.141Z",
+    "id": "8f2ed9fd",
+    "title": "Agent memory as a file format",
+    "url": "https://calpaterson.com/memoryfields.html",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-31T22:04:50.157Z",
+    "id": "9911b16a",
+    "title": "Data Became Code: We Ran Code Inside Fortune 500s Using Files They Published for AI Agents",
+    "url": "https://medium.com/@alonhertz1/data-became-code-we-ran-code-inside-fortune-500s-using-files-they-published-for-ai-agents-0cd67ffbbffc",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-31T22:04:51.168Z",
+    "id": "c7361bca",
+    "title": "uv: Deduplicate all files in the wheel cache",
+    "url": "https://github.com/astral-sh/uv/pull/21327",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-31T22:04:52.217Z",
+    "id": "6c64ba98",
+    "title": "Cheap GPS jammers are filling the world with navigation dead zones",
+    "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
+    "source": "hn",
+    "wildcard": true
   }
 ]
