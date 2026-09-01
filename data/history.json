@@ -1246,5 +1246,37 @@
     "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-09-01T22:05:40.054Z",
+    "id": "d6b322d6",
+    "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
+    "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-01T22:05:41.071Z",
+    "id": "4f6dab87",
+    "title": "damejan80/tokentab — A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "url": "https://github.com/damejan80/tokentab",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-01T22:05:42.084Z",
+    "id": "dfe53c18",
+    "title": "Io_uring Without Readahead",
+    "url": "https://frn.sh/io-uring/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-01T22:05:43.222Z",
+    "id": "6447115f",
+    "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+    "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+    "source": "hn",
+    "wildcard": true
   }
 ]
