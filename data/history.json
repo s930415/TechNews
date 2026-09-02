@@ -1278,5 +1278,37 @@
     "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-09-02T22:03:38.973Z",
+    "id": "0ae88a84",
+    "title": "Maybe We Shouldn't Be Reviewing All This Code",
+    "url": "https://martinfowler.com/rachels-ramblings/code-review.html",
+    "source": "rss",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-02T22:03:39.985Z",
+    "id": "cf155639",
+    "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+    "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-02T22:03:40.992Z",
+    "id": "0fe437a1",
+    "title": "Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x",
+    "url": "https://frontierharness.org",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-02T22:03:42.006Z",
+    "id": "fca5e363",
+    "title": "Embedded Rust RTOS vs. C RTOS",
+    "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
