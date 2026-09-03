@@ -1310,5 +1310,37 @@
     "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-09-03T22:04:13.526Z",
+    "id": "08c092f7",
+    "title": "AI Agents and the Refactoring That Never Happens",
+    "url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-03T22:04:14.565Z",
+    "id": "78855ec0",
+    "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+    "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-03T22:04:15.602Z",
+    "id": "4bd88e0a",
+    "title": "How to Guarantee You Never Ship",
+    "url": "https://kore-nordmann.de/blog/how_to_guarantee_you_never_ship.html",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-03T22:04:16.638Z",
+    "id": "45650504",
+    "title": "Let's build a compressor from scratch",
+    "url": "https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/",
+    "source": "lobsters",
+    "wildcard": true
   }
 ]
