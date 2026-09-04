@@ -1342,5 +1342,37 @@
     "url": "https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/",
     "source": "lobsters",
     "wildcard": true
+  },
+  {
+    "at": "2026-09-04T22:04:28.444Z",
+    "id": "de53b1ca",
+    "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+    "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-04T22:04:29.462Z",
+    "id": "113b167a",
+    "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
+    "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-04T22:04:30.465Z",
+    "id": "f1e34982",
+    "title": "2akouwu/reverify — Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and gr",
+    "url": "https://github.com/2akouwu/reverify",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-04T22:04:31.467Z",
+    "id": "0e3af44b",
+    "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
+    "url": "https://carbonawarepricing.com/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
