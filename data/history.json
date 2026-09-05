@@ -1374,5 +1374,37 @@
     "url": "https://carbonawarepricing.com/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-09-05T22:04:02.376Z",
+    "id": "44a6c9ac",
+    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-05T22:04:03.379Z",
+    "id": "2df61e78",
+    "title": "Anatomy of a Test",
+    "url": "https://jonathan-frere.com/posts/anatomy-of-a-test/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-05T22:04:04.498Z",
+    "id": "0bd76427",
+    "title": "Actively exploited sandbox RCE in all Chromium versions",
+    "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-05T22:04:05.513Z",
+    "id": "fc2856d3",
+    "title": "Updates on HEIR, the Homomorphic Encryption Compiler Project",
+    "url": "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
