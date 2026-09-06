@@ -1406,5 +1406,37 @@
     "url": "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-09-06T22:06:39.479Z",
+    "id": "f31be0c6",
+    "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+    "url": "https://github.com/okf-memory/okf-agent-memory",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-06T22:06:40.615Z",
+    "id": "87019ef3",
+    "title": "How we monitor internal coding agents for misalignment",
+    "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-06T22:06:41.638Z",
+    "id": "2ed23cee",
+    "title": "anthropics/fermats-last-theorem — (無描述)",
+    "url": "https://github.com/anthropics/fermats-last-theorem",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-06T22:06:42.655Z",
+    "id": "f3f093be",
+    "title": "jprx/darwin-vm — Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+    "url": "https://github.com/jprx/darwin-vm",
+    "source": "github",
+    "wildcard": true
   }
 ]
