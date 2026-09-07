@@ -1,101 +1,5 @@
 [
   {
-    "at": "2026-07-24T09:04:48.620Z",
-    "id": "3bc63f29",
-    "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-24T09:04:49.646Z",
-    "id": "90c787e5",
-    "title": "You can now run same OCI images as containers or Firecracker microVMs",
-    "url": "https://github.com/pullrun/pullrun",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-24T09:04:50.641Z",
-    "id": "9b21689a",
-    "title": "Code mode yields a 99.2% cost reduction in our systems",
-    "url": "https://www.agent-swarm.dev/blog/code-mode-token-savings",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-24T09:04:51.634Z",
-    "id": "2f559b07",
-    "title": "The Visual 6502",
-    "url": "http://visual6502.org/JSSim/index.html",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
-    "at": "2026-07-24T10:35:46.988Z",
-    "id": "11b62d30",
-    "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
-    "url": "https://github.com/onecli/onecli",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-24T10:35:47.939Z",
-    "id": "f42bd958",
-    "title": "xai-org/grok-build — SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-    "url": "https://github.com/xai-org/grok-build",
-    "source": "github",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-24T10:35:48.888Z",
-    "id": "3ad306b4",
-    "title": "mereyabdenbekuly-ctrl/clodex-ide — Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-    "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-    "source": "github",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-24T10:35:49.824Z",
-    "id": "9348fe9c",
-    "title": "Software rendering in 500 lines of bare C++",
-    "url": "https://haqr.eu/tinyrenderer/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
-    "at": "2026-07-24T10:42:42.806Z",
-    "id": "997dd6ab",
-    "title": "lopopolo/harness-engineering — 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-    "url": "https://github.com/lopopolo/harness-engineering",
-    "source": "github",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-24T10:42:43.759Z",
-    "id": "6d0e7fa0",
-    "title": "The PImpl idiom and the C++26 std:indirect type",
-    "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-24T10:42:44.705Z",
-    "id": "a7d0116d",
-    "title": "I regret migrating to Codeberg",
-    "url": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-24T10:42:45.639Z",
-    "id": "0f535ae0",
-    "title": "A tour of MLIR: The Dialect Stack Everyone Depends On",
-    "url": "https://hiraditya.github.io/posts/mlir-dialect-stack-for-ml/",
-    "source": "lobsters",
-    "wildcard": true
-  },
-  {
     "at": "2026-07-28T07:55:23.904Z",
     "id": "6641464f",
     "title": "My current strategy is to not read any of the code written by my agents",
@@ -1437,6 +1341,38 @@
     "title": "jprx/darwin-vm — Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
     "url": "https://github.com/jprx/darwin-vm",
     "source": "github",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-07T22:04:44.956Z",
+    "id": "0a021c99",
+    "title": "How well do agents use test/verification techniques?",
+    "url": "https://danluu.com/agentic-testing/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-07T22:04:45.984Z",
+    "id": "d99a7fe4",
+    "title": "Hardening Container Images",
+    "url": "https://www.grepular.com/Hardening_Container_Images",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-07T22:04:46.989Z",
+    "id": "425634d2",
+    "title": "sebbbi/NoGraphicsAPI — Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my \"No Graphics API\" blog post and the SIGGRAPH talk.",
+    "url": "https://github.com/sebbbi/NoGraphicsAPI",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-07T22:04:48.007Z",
+    "id": "f640cbd4",
+    "title": "bzip3",
+    "url": "https://github.com/iczelia/bzip3",
+    "source": "hn",
     "wildcard": true
   }
 ]
