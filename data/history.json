@@ -1374,5 +1374,37 @@
     "url": "https://github.com/iczelia/bzip3",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-09-08T22:04:03.003Z",
+    "id": "f35a8acf",
+    "title": "C*: Unifying Programming and Verification in C",
+    "url": "https://arxiv.org/abs/2504.02246",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-08T22:04:04.016Z",
+    "id": "2245a3ab",
+    "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+    "url": "https://rohanadwankar.github.io/posts/platforms.html",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-08T22:04:05.042Z",
+    "id": "16169d53",
+    "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-08T22:04:06.069Z",
+    "id": "8b5f7f93",
+    "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+    "url": "https://github.com/Sadpainy/Stuxnet",
+    "source": "hn",
+    "wildcard": true
   }
 ]
