@@ -1438,5 +1438,37 @@
     "url": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-09-10T22:03:41.147Z",
+    "id": "7e78d193",
+    "title": "Forgejo <=16.0.3 Critical RCE",
+    "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-10T22:03:42.167Z",
+    "id": "7855ce20",
+    "title": "Neki is sharded Postgres by PlanetScale",
+    "url": "https://neki.dev/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-10T22:03:43.183Z",
+    "id": "66f60d45",
+    "title": "Better AI code comment detector",
+    "url": "https://entropicthoughts.com/better-ai-comment-classifier",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-10T22:03:44.198Z",
+    "id": "a68f6360",
+    "title": "Factoring RSA 260",
+    "url": "https://cognition.com/blog/factoring-rsa-260",
+    "source": "hn",
+    "wildcard": true
   }
 ]
