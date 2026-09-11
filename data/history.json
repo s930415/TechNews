@@ -1,69 +1,5 @@
 [
   {
-    "at": "2026-07-28T07:55:23.904Z",
-    "id": "6641464f",
-    "title": "My current strategy is to not read any of the code written by my agents",
-    "url": "https://twitter.com/unclebobmartin/status/2080257779395154409?s=20",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-28T07:55:24.925Z",
-    "id": "ddb95146",
-    "title": "VictorTaelin/OptMem — Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-    "url": "https://github.com/VictorTaelin/OptMem",
-    "source": "github",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-28T07:55:25.982Z",
-    "id": "6f12073b",
-    "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
-    "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-28T07:55:27.026Z",
-    "id": "6bd28ead",
-    "title": "Tokio Gives Progress, Not Ordering: Scheduling 1M Tasks",
-    "url": "https://pranitha.dev/posts/tokio-gives-progress-not-ordering/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
-    "at": "2026-07-28T22:03:23.628Z",
-    "id": "62b7a2b2",
-    "title": "The Orchestrator's Tax",
-    "url": "https://martinfowler.com/articles/orchestrator-tax.html",
-    "source": "rss",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-28T22:03:24.644Z",
-    "id": "a47caeb2",
-    "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-    "url": "https://github.com/schildep/verified-3d-mesh-intersection",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-28T22:03:25.673Z",
-    "id": "d3b28b1b",
-    "title": "How building software is changing at Anthropic",
-    "url": "https://newsletter.pragmaticengineer.com/p/inside-anthropic",
-    "source": "rss",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-28T22:03:26.696Z",
-    "id": "4629cda4",
-    "title": "How Do I Profile eBPF Code?",
-    "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-07-29T22:04:00.559Z",
     "id": "a02c8e7a",
     "title": "Handbook.md shows that long policy documents do not reliably govern agents",
@@ -1468,6 +1404,38 @@
     "id": "a68f6360",
     "title": "Factoring RSA 260",
     "url": "https://cognition.com/blog/factoring-rsa-260",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-11T22:05:12.855Z",
+    "id": "7b6f7a87",
+    "title": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
+    "url": "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-11T22:05:13.877Z",
+    "id": "eb0dd229",
+    "title": "Measuring the sloppiness of code",
+    "url": "https://earendil.com/posts/measuring-code-sloppiness/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-11T22:05:14.999Z",
+    "id": "b2e24dfd",
+    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+    "url": "https://eiln.github.io/posts/ane.html",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-11T22:05:16.012Z",
+    "id": "0a4249c4",
+    "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+    "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
     "source": "hn",
     "wildcard": true
   }
