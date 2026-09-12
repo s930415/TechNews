@@ -1438,5 +1438,37 @@
     "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-09-12T22:03:25.598Z",
+    "id": "17f9c107",
+    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+    "url": "https://www.rubyhack.ai/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-12T22:03:26.606Z",
+    "id": "4cfbd6f7",
+    "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+    "url": "https://github.com/zachsaw/graphify-csharp",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-12T22:03:27.631Z",
+    "id": "d35afbac",
+    "title": "Litelm: LiteLLM Without the Bloat",
+    "url": "https://github.com/kennethwolters/litelm",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-12T22:03:28.658Z",
+    "id": "287de84e",
+    "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+    "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+    "source": "hn",
+    "wildcard": true
   }
 ]
