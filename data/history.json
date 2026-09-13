@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-07-29T22:04:00.559Z",
-    "id": "a02c8e7a",
-    "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-    "url": "https://arxiv.org/abs/2607.25398",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-29T22:04:01.581Z",
-    "id": "2cf56faf",
-    "title": "SpecForge – A Platform for Authoring Formal Specifications",
-    "url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-29T22:04:02.605Z",
-    "id": "37c0e3e1",
-    "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
-    "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-29T22:04:03.618Z",
-    "id": "18286c8c",
-    "title": "Cracking Windows Open: Porting RADV to Win32",
-    "url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-07-30T22:05:33.156Z",
     "id": "4743d6bd",
     "title": "Show HN: A local merge queue for parallel Claude Code agents",
@@ -1468,6 +1436,38 @@
     "id": "287de84e",
     "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
     "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-13T22:04:23.281Z",
+    "id": "15d32d01",
+    "title": "CUDA for AMD on Windows",
+    "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-13T22:04:24.310Z",
+    "id": "84a732ab",
+    "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+    "url": "https://hachyderm.io/@simontatham/117201594980991062",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-13T22:04:25.333Z",
+    "id": "a61b0f6c",
+    "title": "Libraries Run Rust Inside Python (With PyO3)",
+    "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-13T22:04:26.373Z",
+    "id": "a46b2e3b",
+    "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
     "source": "hn",
     "wildcard": true
   }
