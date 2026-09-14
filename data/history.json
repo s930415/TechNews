@@ -1,69 +1,5 @@
 [
   {
-    "at": "2026-07-30T22:05:33.156Z",
-    "id": "4743d6bd",
-    "title": "Show HN: A local merge queue for parallel Claude Code agents",
-    "url": "https://github.com/funador/claude-code-merge-queue",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-30T22:05:34.177Z",
-    "id": "eb799eb1",
-    "title": "Stacked PRs are now live on GitHub",
-    "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-30T22:05:35.209Z",
-    "id": "de0c8b1b",
-    "title": "OpenJDK Interim Policy on Generative AI",
-    "url": "https://openjdk.org/legal/ai",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-30T22:05:36.418Z",
-    "id": "1ca28227",
-    "title": "CosmosEscape: Taking over Every Database in Azure Cosmos DB",
-    "url": "https://www.wiz.io/blog/cosmosescape-taking-over-every-database-in-azure-cosmos-db",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
-    "at": "2026-07-31T22:03:04.747Z",
-    "id": "c3b2c774",
-    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-31T22:03:05.765Z",
-    "id": "353246c0",
-    "title": "AI productivity gains are closer to 10% than 10x",
-    "url": "https://leaddev.com/reporting/ai-productivity-gains-are-closer-to-10-than-10x",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-31T22:03:06.770Z",
-    "id": "13350963",
-    "title": "Everyone is building LLM routers, we deprecated ours",
-    "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-31T22:03:07.773Z",
-    "id": "34c95259",
-    "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
-    "url": "https://semyonsinchenko.github.io/ssinchenko/post/datafusion-graphs-cc-2/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-08-01T22:03:08.120Z",
     "id": "eebbdb6a",
     "title": "Pgtestdb's template cloning approach to testing is fast",
@@ -1468,6 +1404,38 @@
     "id": "a46b2e3b",
     "title": "Why is the x86 undefined instruction called ud2? Why 2?",
     "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-14T22:03:49.114Z",
+    "id": "3f0311b5",
+    "title": "OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others",
+    "url": "https://calif.io/research/oempocalypse",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-14T22:03:50.175Z",
+    "id": "ccc98ec8",
+    "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+    "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-14T22:03:51.199Z",
+    "id": "6a7a5694",
+    "title": "Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats",
+    "url": "https://codeberg.org/mergiraf/mergiraf",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-14T22:03:52.212Z",
+    "id": "22737028",
+    "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
+    "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
     "source": "hn",
     "wildcard": true
   }
