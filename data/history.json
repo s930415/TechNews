@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-08-01T22:03:08.120Z",
-    "id": "eebbdb6a",
-    "title": "Pgtestdb's template cloning approach to testing is fast",
-    "url": "https://brandur.org/fragments/pgtestdb",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-01T22:03:09.156Z",
-    "id": "938e3e7d",
-    "title": "The development pipeline is a production system",
-    "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-01T22:03:10.170Z",
-    "id": "e4aeb731",
-    "title": "Accepting a messy git history",
-    "url": "https://beza1e1.tuxen.de/git_two_users.html",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-01T22:03:11.185Z",
-    "id": "657ab357",
-    "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
-    "url": "https://arxiv.org/abs/2607.28233",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-08-02T22:04:03.675Z",
     "id": "b117854c",
     "title": "Diátaxis",
@@ -1436,6 +1404,38 @@
     "id": "22737028",
     "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
     "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-15T22:04:06.335Z",
+    "id": "685a0346",
+    "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+    "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-15T22:04:07.349Z",
+    "id": "01a34575",
+    "title": "shadcn-ui/lint — An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.",
+    "url": "https://github.com/shadcn-ui/lint",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-15T22:04:08.373Z",
+    "id": "c7aeac0c",
+    "title": "Coreutils - rejected feature requests",
+    "url": "https://www.gnu.org/software/coreutils/rejected_requests.html",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-15T22:04:09.391Z",
+    "id": "877aa0bd",
+    "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+    "url": "https://codyho.dev/blog/gpu-driver/",
     "source": "hn",
     "wildcard": true
   }
