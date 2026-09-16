@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-08-02T22:04:03.675Z",
-    "id": "b117854c",
-    "title": "Diátaxis",
-    "url": "https://diataxis.fr/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-02T22:04:04.686Z",
-    "id": "25b8bb68",
-    "title": "QoderAI/better-harness — Better Harness turns project and session evidence into loop-level insights, prioritized improvements, and verifiable next steps—inside the coding agent you already use.",
-    "url": "https://github.com/QoderAI/better-harness",
-    "source": "github",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-02T22:04:05.699Z",
-    "id": "974d5368",
-    "title": "microsoft/skill-recorder — Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automati",
-    "url": "https://github.com/microsoft/skill-recorder",
-    "source": "github",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-02T22:04:06.719Z",
-    "id": "e489345f",
-    "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-    "url": "https://github.com/wie-project/kakehashi",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-08-03T22:04:15.376Z",
     "id": "4871c646",
     "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
@@ -1436,6 +1404,38 @@
     "id": "877aa0bd",
     "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
     "url": "https://codyho.dev/blog/gpu-driver/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-16T22:04:07.723Z",
+    "id": "0f67af44",
+    "title": "Datamimic – don't let your coding agent invent its own test world",
+    "url": "https://github.com/rapiddweller/datamimic",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-16T22:04:08.743Z",
+    "id": "f2224f40",
+    "title": "Scaling Golang CI by Replacing actions/setup-go",
+    "url": "https://www.cloudx.ai/posts/setup-go",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-16T22:04:09.770Z",
+    "id": "2a70d596",
+    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "url": "https://rohanbansal.com/qorl",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-16T22:04:10.786Z",
+    "id": "df6767ef",
+    "title": "A software thing I built: GPS on a 25MHz 486-SX",
+    "url": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
     "source": "hn",
     "wildcard": true
   }
