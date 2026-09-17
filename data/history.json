@@ -1438,5 +1438,37 @@
     "url": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-09-17T22:04:08.248Z",
+    "id": "f7533cfa",
+    "title": "OpenSpec – A lightweight and configurable AI spec framework",
+    "url": "https://openspec.dev/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-17T22:04:09.274Z",
+    "id": "51dd1051",
+    "title": "bonobomock: A GoogleTest-compatible C++ mocking library",
+    "url": "https://github.com/bloomberg/bonobomock/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-17T22:04:10.291Z",
+    "id": "1990b508",
+    "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+    "url": "https://ryan.science/blog/keys-not-included",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-17T22:04:11.306Z",
+    "id": "cb9dbf89",
+    "title": "openai/NavierStokesAndEuler — Lean certificates accompanying Navier-Stokes and Euler results",
+    "url": "https://github.com/openai/NavierStokesAndEuler",
+    "source": "github",
+    "wildcard": true
   }
 ]
