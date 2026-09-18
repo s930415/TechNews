@@ -1,26 +1,6 @@
-import Anthropic from '@anthropic-ai/sdk';
 import { CONFIG } from './config.js';
+import { ask } from './llm.js';
 import type { Candidate, Pick } from './types.js';
-
-const client = new Anthropic(); // 讀 ANTHROPIC_API_KEY
-
-async function ask(model: string, system: string, prompt: string, maxTokens = 4000): Promise<string> {
-  const msg = await client.messages.create({
-    model,
-    max_tokens: maxTokens,
-    system,
-    messages: [{ role: 'user', content: prompt }],
-  });
-  const text = msg.content
-    .filter((b): b is Anthropic.TextBlock => b.type === 'text')
-    .map((b) => b.text)
-    .join('');
-  if (!text.trim()) {
-    // 偶爾 API 會回空內容（stop_reason 常是 max_tokens 或 refusal），往上抛讓 askJson 重試
-    throw new Error(`模型回空內容（model=${model} stop_reason=${msg.stop_reason}）`);
-  }
-  return text;
-}
 
 /** 呼叫模型並解析 JSON，回空／回非 JSON 時重試，避免單次抖動就讓整支流程掛掉 */
 async function askJson<T>(
