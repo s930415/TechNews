@@ -1,69 +1,5 @@
 [
   {
-    "at": "2026-08-03T22:04:15.376Z",
-    "id": "4871c646",
-    "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
-    "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-03T22:04:16.391Z",
-    "id": "d93973cd",
-    "title": "Reliability Lessons From SQLite",
-    "url": "https://www.youtube.com/watch?v=V_qzqY1bb7I",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-03T22:04:17.404Z",
-    "id": "a702bd37",
-    "title": "AI migrated legacy COBOL programs to Java, bugs included",
-    "url": "https://arxiv.org/abs/2607.28271",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-03T22:04:18.419Z",
-    "id": "e75f7e42",
-    "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
-    "url": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
-    "at": "2026-08-04T22:04:26.107Z",
-    "id": "69fd2a8c",
-    "title": "Agent skills that bring team coding standards to Claude Code and Codex",
-    "url": "https://github.com/tikalk/adlc-team-skills",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-04T22:04:27.119Z",
-    "id": "0a860ab6",
-    "title": "\"Clean\" Code, Horrible Performance (2023)",
-    "url": "https://www.computerenhance.com/p/clean-code-horrible-performance",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-04T22:04:28.131Z",
-    "id": "da2d8fe5",
-    "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-    "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-04T22:04:29.158Z",
-    "id": "c343395b",
-    "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-    "url": "https://toneyalexander.github.io/inclusive-color-space/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-08-05T22:04:35.266Z",
     "id": "06d0cdff",
     "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
@@ -1469,6 +1405,38 @@
     "title": "openai/NavierStokesAndEuler — Lean certificates accompanying Navier-Stokes and Euler results",
     "url": "https://github.com/openai/NavierStokesAndEuler",
     "source": "github",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-18T22:05:16.188Z",
+    "id": "3f8ce213",
+    "title": "An empirical study of harness design for coding agents",
+    "url": "https://arxiv.org/abs/2609.20804",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-18T22:05:17.201Z",
+    "id": "b3566f38",
+    "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+    "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-18T22:05:18.216Z",
+    "id": "df810088",
+    "title": "How Uber Protects Against Retry Storms",
+    "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-18T22:05:19.240Z",
+    "id": "cf65b761",
+    "title": "How SpaceX streamlined the Raptor engine",
+    "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
+    "source": "hn",
     "wildcard": true
   }
 ]
