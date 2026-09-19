@@ -1438,5 +1438,37 @@
     "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-09-19T22:03:11.743Z",
+    "id": "28f5c2de",
+    "title": "Tin: full-text search for Postgres",
+    "url": "https://planetscale.com/blog/introducing-tin",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-19T22:03:12.756Z",
+    "id": "556741f8",
+    "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+    "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-19T22:03:13.769Z",
+    "id": "9aeec529",
+    "title": "We made Playwright 2x faster and 80% more token efficient",
+    "url": "https://github.com/browserbase/stagehand",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-19T22:03:14.783Z",
+    "id": "b3ed2c1e",
+    "title": "How did AMD Ryzen get 50% faster in two years?",
+    "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
