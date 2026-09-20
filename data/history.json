@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-08-05T22:04:35.266Z",
-    "id": "06d0cdff",
-    "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-    "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-05T22:04:36.275Z",
-    "id": "212cb586",
-    "title": "Building an Advanced Agentic Harness",
-    "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-05T22:04:37.292Z",
-    "id": "f35de892",
-    "title": "How to Find Bugs in Systems That Don't Exist",
-    "url": "https://www.youtube.com/watch?v=zSZkLyD9ILI",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-05T22:04:38.301Z",
-    "id": "64505a7b",
-    "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
-    "url": "https://arxiv.org/abs/2603.04221",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-08-06T22:03:27.908Z",
     "id": "bd6f2df9",
     "title": "Infrastructure Gravity & Domain Engineering",
@@ -1468,6 +1436,38 @@
     "id": "b3ed2c1e",
     "title": "How did AMD Ryzen get 50% faster in two years?",
     "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-20T22:03:15.772Z",
+    "id": "6cc7aeef",
+    "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
+    "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-20T22:03:16.786Z",
+    "id": "c18243cb",
+    "title": "Deterministic Core, Non-Deterministic Shell",
+    "url": "https://outdata.net/blog/260803",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-20T22:03:17.797Z",
+    "id": "a99e3207",
+    "title": "crwdla/tokentab — A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "url": "https://github.com/crwdla/tokentab",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-20T22:03:18.808Z",
+    "id": "921e0122",
+    "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+    "url": "https://eprint.iacr.org/2026/2039",
     "source": "hn",
     "wildcard": true
   }
