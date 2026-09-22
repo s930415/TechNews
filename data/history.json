@@ -1438,5 +1438,37 @@
     "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-09-22T22:04:19.024Z",
+    "id": "74913b77",
+    "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+    "url": "https://github.com/naw103/foremerge",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-22T22:04:20.069Z",
+    "id": "6a137601",
+    "title": "Writing Rust code that's fast by asking agents to make the code faster",
+    "url": "https://minimaxir.com/2026/09/agentic-iteration/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-22T22:04:21.114Z",
+    "id": "0f02379e",
+    "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
+    "url": "https://droprun.sh/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-22T22:04:22.157Z",
+    "id": "30263718",
+    "title": "HERMES radio enables voice and data communication over vast distances",
+    "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+    "source": "hn",
+    "wildcard": true
   }
 ]
