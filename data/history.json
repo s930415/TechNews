@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-08-11T22:04:12.709Z",
-    "id": "0d3bab75",
-    "title": "TDD inside the agent loop - theater or actual value?",
-    "url": "https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html",
-    "source": "rss",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-11T22:04:13.721Z",
-    "id": "220d5105",
-    "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
-    "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-11T22:04:14.831Z",
-    "id": "6440b1f1",
-    "title": "Software engineering at a proprietary trading company: Optiver",
-    "url": "https://newsletter.pragmaticengineer.com/p/optiver",
-    "source": "rss",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-11T22:04:15.843Z",
-    "id": "393c13f6",
-    "title": "Compression is prediction",
-    "url": "https://ngrok.com/blog/compression-is-prediction",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-08-12T22:03:40.673Z",
     "id": "e4adc33c",
     "title": "Hax – a minimalist, terminal-native coding agent written in C",
@@ -1469,6 +1437,38 @@
     "title": "Astronomer watches Starlink satellites sinking to build a 'planetary barometer'",
     "url": "https://www.theregister.com/science/2026/09/25/astronomer-watches-starlink-satellites-sinking-to-build-a-planetary-barometer/5299036",
     "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-26T22:03:36.569Z",
+    "id": "b040c920",
+    "title": "Is your Postgres migration safe or not safe?",
+    "url": "https://safenotsafe.dev/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-26T22:03:37.623Z",
+    "id": "e9c329cd",
+    "title": "There is more to code review than (automatable) detection",
+    "url": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-26T22:03:38.680Z",
+    "id": "2eb5a414",
+    "title": "Rusty thoughts on \"Parse, don't validate\"",
+    "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-26T22:03:39.734Z",
+    "id": "2fe6a8e3",
+    "title": "A Brief Perspective on Deep Learning Using Common Lisp",
+    "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
+    "source": "lobsters",
     "wildcard": true
   }
 ]

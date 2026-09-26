@@ -66,3 +66,4 @@
 {"at":"2026-09-03T14:00:02.775Z","id":"0fe437a1","title":"Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x","url":"https://frontierharness.org","source":"hn","verdict":"like","wildcard":false}
 {"at":"2026-09-04T22:00:03.250Z","id":"45650504","title":"Let's build a compressor from scratch","url":"https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/","source":"lobsters","verdict":"like","wildcard":true}
 {"at":"2026-09-12T14:00:02.637Z","id":"eb0dd229","title":"Measuring the sloppiness of code","url":"https://earendil.com/posts/measuring-code-sloppiness/","source":"hn","verdict":"like","wildcard":false}
+{"at":"2026-09-26T22:00:02.388Z","id":"8fc9916b","title":"Git-bug: Distributed, offline-first bug tracker embedded in Git","url":"https://github.com/git-bug/git-bug","source":"hn","verdict":"like","wildcard":false}
