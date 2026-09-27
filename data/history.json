@@ -1,69 +1,5 @@
 [
   {
-    "at": "2026-08-12T22:03:40.673Z",
-    "id": "e4adc33c",
-    "title": "Hax – a minimalist, terminal-native coding agent written in C",
-    "url": "https://usehax.dev/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-12T22:03:41.685Z",
-    "id": "55000679",
-    "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-12T22:03:42.694Z",
-    "id": "e29a45fb",
-    "title": "Go is an ideal language for AI-assisted software engineering",
-    "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-12T22:03:43.713Z",
-    "id": "1c6cb5cf",
-    "title": "Making holograms with a pen plotter",
-    "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
-    "at": "2026-08-13T22:04:08.994Z",
-    "id": "0d0766da",
-    "title": "Understanding is the new bottleneck",
-    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-13T22:04:10.013Z",
-    "id": "58748291",
-    "title": "Let Them Write RFCs",
-    "url": "https://ohadravid.github.io/posts/2026-08-let-them-write-rfcs/",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-13T22:04:11.027Z",
-    "id": "dd53fcf3",
-    "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
-    "url": "https://github.com/fellowgeek/mcp-memory",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-13T22:04:12.047Z",
-    "id": "7a470e4f",
-    "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
-    "url": "https://github.com/systemd/systemd/issues/40262",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-08-14T22:04:06.625Z",
     "id": "64015dd1",
     "title": "How Compaction Works in Pi",
@@ -1469,6 +1405,38 @@
     "title": "A Brief Perspective on Deep Learning Using Common Lisp",
     "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
     "source": "lobsters",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-27T22:04:48.817Z",
+    "id": "66af2562",
+    "title": "Don't couple your Go code to GitHub",
+    "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-27T22:04:49.874Z",
+    "id": "900e34db",
+    "title": "What Improves Developer Productivity at Google? Code Quality (2022)",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3540250.3558940",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-27T22:04:50.939Z",
+    "id": "38d2949b",
+    "title": "Faster prompt lookup drafting in llama.cpp",
+    "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-27T22:04:51.997Z",
+    "id": "dd92bc66",
+    "title": "Video CDs Break Windows Explorer",
+    "url": "https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html",
+    "source": "hn",
     "wildcard": true
   }
 ]
