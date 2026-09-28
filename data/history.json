@@ -1438,5 +1438,37 @@
     "url": "https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-09-28T22:03:32.162Z",
+    "id": "04b1816a",
+    "title": "The problem is not AI code, but not knowing about system architecture or intent",
+    "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-28T22:03:33.207Z",
+    "id": "b0493435",
+    "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+    "url": "https://earnanhonestdollar.com/bench",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-28T22:03:34.258Z",
+    "id": "414e8180",
+    "title": "DogWood: Monitoring Policies using First Order Temporal Logic",
+    "url": "https://aws.amazon.com/blogs/opensource/introducing-dogwood-runtime-verification-for-ai-agents/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-28T22:03:35.290Z",
+    "id": "97f7725d",
+    "title": "Self-Hosting on the Dark Web",
+    "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
