@@ -1,69 +1,5 @@
 [
   {
-    "at": "2026-08-14T22:04:06.625Z",
-    "id": "64015dd1",
-    "title": "How Compaction Works in Pi",
-    "url": "https://earendil.com/posts/compaction-in-pi/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-14T22:04:07.636Z",
-    "id": "0cf41b51",
-    "title": "Comments in the code vs PR description",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-14T22:04:08.644Z",
-    "id": "ad019783",
-    "title": "Let's not call it \"tech debt,\" it's just \"mess\"",
-    "url": "https://www.simplermachines.com/lets-not-call-it-tech-debt-its-just-mess/",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-14T22:04:09.677Z",
-    "id": "35f3a67f",
-    "title": "How Gödel's Proof Works (2020)",
-    "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
-    "at": "2026-08-15T22:03:09.941Z",
-    "id": "e2589713",
-    "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-    "url": "https://arxiv.org/abs/2608.12700",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-15T22:03:10.954Z",
-    "id": "e80e5260",
-    "title": "Stop sending me huge PRs; a rant",
-    "url": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-15T22:03:12.005Z",
-    "id": "1d99f72c",
-    "title": "dmmulroy/anti-slop — Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
-    "url": "https://github.com/dmmulroy/anti-slop",
-    "source": "github",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-15T22:03:13.022Z",
-    "id": "0ad4bc76",
-    "title": "How 2004 RuneScape fit a multiplayer RPG into 56k dial-up",
-    "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
-    "source": "lobsters",
-    "wildcard": true
-  },
-  {
     "at": "2026-08-16T22:03:40.097Z",
     "id": "af863cb3",
     "title": "Patterns and problems in emerging multi-agent systems",
@@ -1468,6 +1404,38 @@
     "id": "97f7725d",
     "title": "Self-Hosting on the Dark Web",
     "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-29T22:03:46.293Z",
+    "id": "00aaac94",
+    "title": "Engineering the harness: A practical pattern for reliable coding agents",
+    "url": "https://www.thoughtworks.com/insights/blog/architecture/engineering-the-harness-a-practical-pattern-for-reliable-coding-agents",
+    "source": "rss",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-29T22:03:47.327Z",
+    "id": "f550061b",
+    "title": "GrapheneOS – When an app is slow",
+    "url": "https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-29T22:03:48.361Z",
+    "id": "a1ea0140",
+    "title": "My experience writing automated tests for a SPA",
+    "url": "https://reecoute.fr/tech_blog/2026-09-28_my-experience-writing-automated-tests-for-a-spa",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-29T22:03:49.408Z",
+    "id": "845f25dd",
+    "title": "Show HN: NSL – WSL for Linux",
+    "url": "https://frostyard.github.io/nsl/",
     "source": "hn",
     "wildcard": true
   }
