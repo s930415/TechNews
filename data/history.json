@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-08-16T22:03:40.097Z",
-    "id": "af863cb3",
-    "title": "Patterns and problems in emerging multi-agent systems",
-    "url": "https://www.anthropic.com/research/multiagent-systems",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-16T22:03:41.138Z",
-    "id": "7562ac74",
-    "title": "AI Coding Without the Vibes",
-    "url": "https://peterbloem.nl/blog/craft-coding",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-16T22:03:42.146Z",
-    "id": "c3c4b856",
-    "title": "xoreaxeaxeax/skitter-creek-bath-salts — Unlocking _everything_ on the CPU with DRAM scrambling",
-    "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-    "source": "github",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-16T22:03:43.166Z",
-    "id": "824c0c93",
-    "title": "Guiding Ships with Moire Patterns (2018)",
-    "url": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-08-17T22:03:52.231Z",
     "id": "f429ee65",
     "title": "The Case Against Formal Verification, 50 Years Later",
@@ -1468,6 +1436,38 @@
     "id": "75d9a59f",
     "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
     "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-01T22:03:19.475Z",
+    "id": "d270242d",
+    "title": "ParadeDB Search Performance Improvements",
+    "url": "https://www.paradedb.com/blog/opening-a-closed-tin",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-01T22:03:20.552Z",
+    "id": "fd33487c",
+    "title": "Is sandboxing sufficient to contain rogue agents?",
+    "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-01T22:03:21.646Z",
+    "id": "9f58bc05",
+    "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+    "url": "https://blog.gitbutler.com/git-3-sha-256",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-01T22:03:22.728Z",
+    "id": "8395a4e2",
+    "title": "Functional Ultrasound Imaging (fUSI) from scratch",
+    "url": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
     "source": "hn",
     "wildcard": true
   }
