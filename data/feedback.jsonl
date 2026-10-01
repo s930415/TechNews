@@ -67,3 +67,4 @@
 {"at":"2026-09-04T22:00:03.250Z","id":"45650504","title":"Let's build a compressor from scratch","url":"https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/","source":"lobsters","verdict":"like","wildcard":true}
 {"at":"2026-09-12T14:00:02.637Z","id":"eb0dd229","title":"Measuring the sloppiness of code","url":"https://earendil.com/posts/measuring-code-sloppiness/","source":"hn","verdict":"like","wildcard":false}
 {"at":"2026-09-26T22:00:02.388Z","id":"8fc9916b","title":"Git-bug: Distributed, offline-first bug tracker embedded in Git","url":"https://github.com/git-bug/git-bug","source":"hn","verdict":"like","wildcard":false}
+{"at":"2026-10-01T14:00:02.282Z","id":"75d9a59f","title":"SDF vs. MSDF vs. Slug: GPU Text Rendering","url":"https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/","source":"hn","verdict":"like","wildcard":true}

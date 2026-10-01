@@ -1438,5 +1438,37 @@
     "url": "https://frostyard.github.io/nsl/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-09-30T22:03:29.141Z",
+    "id": "33cb5003",
+    "title": "Commit description as a thinking tool",
+    "url": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-30T22:03:30.185Z",
+    "id": "2e3d5dcc",
+    "title": "You said no MCP",
+    "url": "https://earendil.com/posts/you-said-no-mcp/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-30T22:03:31.220Z",
+    "id": "8fcdcbd7",
+    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+    "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-30T22:03:32.267Z",
+    "id": "75d9a59f",
+    "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+    "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
