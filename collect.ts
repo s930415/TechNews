@@ -1,13 +1,16 @@
 import { CONFIG } from './config.js';
-import { fetchTaps, acknowledge, currentOffset } from './telegram.js';
+import { fetchTaps, acknowledge, currentOffset, readTapsFile } from './telegram.js';
 import { readState, writeState, readHistory, readFeedback, appendFeedback } from './store.js';
 import { reprofile } from './reprofile.js';
+
+// 設了 TAPS_FILE = 檔案模式（伺服器）：bot.mjs 是 token 唯一的 getUpdates 消費者，回饋從它落的檔讀
+const TAPS_FILE = process.env.TAPS_FILE;
 
 async function main() {
   const state = await readState();
 
-  // 第一次執行：把游標對齊到最新，不要把歷史訊息全撈進來
-  if (state.lastUpdateId === 0) {
+  // 第一次執行：把游標對齊到最新，不要把歷史訊息全撈進來（僅 getUpdates 模式需要）
+  if (!TAPS_FILE && state.lastUpdateId === 0) {
     const offset = await currentOffset();
     if (offset > 0) {
       await writeState({ ...state, lastUpdateId: offset });
@@ -16,7 +19,7 @@ async function main() {
     }
   }
 
-  const taps = await fetchTaps(state.lastUpdateId);
+  const taps = TAPS_FILE ? await readTapsFile(TAPS_FILE, state.lastUpdateId) : await fetchTaps(state.lastUpdateId);
   if (taps.length === 0) {
     console.log('沒有新的回饋');
     return;
@@ -44,7 +47,7 @@ async function main() {
       already.add(tap.itemId);
       written += 1;
     }
-    await acknowledge(tap);
+    if (!TAPS_FILE) await acknowledge(tap); // 檔案模式下 bot 端已 ack 過按鈕
   }
 
   const lastUpdateId = Math.max(state.lastUpdateId, ...taps.map((t) => t.updateId));
