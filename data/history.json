@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-08-17T22:03:52.231Z",
-    "id": "f429ee65",
-    "title": "The Case Against Formal Verification, 50 Years Later",
-    "url": "https://ivan-gavran.github.io/0-social-processes-paper",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-17T22:03:53.346Z",
-    "id": "fda01854",
-    "title": "Thinking about tests: assertions and matchers",
-    "url": "https://zverok.space/blog/2026-08-16-assertions-and-matchers.html",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-17T22:03:54.367Z",
-    "id": "a0e7ec22",
-    "title": "How to ship a database every day",
-    "url": "https://turbopuffer.com/blog/control-plane",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-17T22:03:55.387Z",
-    "id": "32e1c7a9",
-    "title": "How to put 170 atoms in an atom",
-    "url": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-08-18T22:05:54.169Z",
     "id": "8797c3b6",
     "title": "antirez/h3.c — MiniMax H3 inference engine for Mac computers",
@@ -1468,6 +1436,38 @@
     "id": "8395a4e2",
     "title": "Functional Ultrasound Imaging (fUSI) from scratch",
     "url": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-02T22:03:17.707Z",
+    "id": "443750ee",
+    "title": "Anatomy of a Lean proof for software engineers",
+    "url": "https://agostbiro.net/posts/2026-10-anatomy-of-a-lean-proof/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-02T22:03:18.792Z",
+    "id": "31ef498d",
+    "title": "Bez: Generating a browser engine from specs and tests",
+    "url": "https://tangled.org/burrito.space/bez",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-02T22:03:19.874Z",
+    "id": "8c1b354d",
+    "title": "The hidden design compromises of Docker layers",
+    "url": "https://loige.co/hidden-design-compromises-of-docker-layers/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-02T22:03:20.959Z",
+    "id": "1f9ad68e",
+    "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+    "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
     "source": "hn",
     "wildcard": true
   }
