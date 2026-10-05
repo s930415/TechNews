@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-08-20T22:03:21.017Z",
-    "id": "e2f1f03b",
-    "title": "Malicious Rust crate Arrayref runs a build-time payload",
-    "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-20T22:03:22.039Z",
-    "id": "8908f6c8",
-    "title": "The Pulse: We need to talk about migrations with AI",
-    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-we-need-to-talk-about-migrations",
-    "source": "rss",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-20T22:03:23.055Z",
-    "id": "6ffa5fd2",
-    "title": "GitHub, autoscaling, and the component substitution fallacy",
-    "url": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-20T22:03:24.070Z",
-    "id": "14d04233",
-    "title": "Turns are Better than Radians (2022)",
-    "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-08-21T22:04:58.239Z",
     "id": "aa49782e",
     "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
@@ -1468,6 +1436,38 @@
     "id": "b7accd4f",
     "title": "How to hack time, with C2PA",
     "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-05T22:04:17.112Z",
+    "id": "c261b367",
+    "title": "Incident with Actions",
+    "url": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-05T22:04:18.171Z",
+    "id": "2e4dd434",
+    "title": "Ephemeral testing",
+    "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-05T22:04:19.257Z",
+    "id": "1cf5e38d",
+    "title": "A 40ms Go garbage collector pause caused by swap",
+    "url": "https://frn.sh/go-gc/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-05T22:04:20.324Z",
+    "id": "08ab9f47",
+    "title": "Making a GTK application in Haskell, part 1",
+    "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
     "source": "hn",
     "wildcard": true
   }
