@@ -1,69 +1,5 @@
 [
   {
-    "at": "2026-08-21T22:04:58.239Z",
-    "id": "aa49782e",
-    "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-    "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-21T22:04:59.253Z",
-    "id": "bec05b65",
-    "title": "The road to ACID transactions in Cassandra 6",
-    "url": "https://theconsensus.dev/p/2026/08/16/transactions-in-cassandra.html",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-21T22:05:00.267Z",
-    "id": "a0eb8e80",
-    "title": "The Pit of Success - An interview with Rico Mariani",
-    "url": "https://youtu.be/48Rig6v-xYU",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-21T22:05:01.300Z",
-    "id": "5c161035",
-    "title": "Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS readout",
-    "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
-    "at": "2026-08-22T22:03:55.120Z",
-    "id": "31ef8ebb",
-    "title": "Rust Glancer: Rust LSP using 100x less RAM",
-    "url": "https://rust-glancer.github.io/blog/hello-world/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-22T22:03:56.140Z",
-    "id": "986d50ac",
-    "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
-    "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-22T22:03:57.161Z",
-    "id": "7b8d3d36",
-    "title": "What happens when a GPU reads memory",
-    "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-22T22:03:58.174Z",
-    "id": "a0a832e9",
-    "title": "Show HN: Rotation via Double Reflection",
-    "url": "https://static.laszlokorte.de/rotor-reflect/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-08-23T22:04:38.674Z",
     "id": "d191ca37",
     "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
@@ -1468,6 +1404,38 @@
     "id": "08ab9f47",
     "title": "Making a GTK application in Haskell, part 1",
     "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-06T22:04:28.089Z",
+    "id": "f9f039fa",
+    "title": "Two ARM64-specific compiler optimization bugs, in GCC 15/16 and Rust, hit curl",
+    "url": "https://mastodon.social/@bagder/117392573268225646",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-06T22:04:29.139Z",
+    "id": "ac6a2a5d",
+    "title": "The Early History of Smalltalk (1993)",
+    "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-06T22:04:30.178Z",
+    "id": "388f9a01",
+    "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
+    "url": "https://www.parseable.com",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-06T22:04:31.224Z",
+    "id": "2cb74e6c",
+    "title": "Subquadratic 3SUM and Subcubic APSP",
+    "url": "https://arxiv.org/abs/2610.06783",
     "source": "hn",
     "wildcard": true
   }
