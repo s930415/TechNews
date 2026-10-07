@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-08-23T22:04:38.674Z",
-    "id": "d191ca37",
-    "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-    "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-23T22:04:39.687Z",
-    "id": "ef250941",
-    "title": "Are 15% of all commits fixes? (2025)",
-    "url": "https://carvalho.sh/posts/2025-07-29-are-15-of-all-commits-fixes/",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-23T22:04:40.698Z",
-    "id": "304760d4",
-    "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-    "url": "https://twitter.com/argofowl/status/2091150597374537729",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-23T22:04:41.710Z",
-    "id": "99609a67",
-    "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-    "url": "https://martypc.net/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-08-24T22:03:52.792Z",
     "id": "451496f8",
     "title": "My agent.md to improve LLM-assisted code quality",
@@ -1436,6 +1404,38 @@
     "id": "2cb74e6c",
     "title": "Subquadratic 3SUM and Subcubic APSP",
     "url": "https://arxiv.org/abs/2610.06783",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-07T22:08:10.564Z",
+    "id": "f266a14d",
+    "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+    "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-07T22:08:11.626Z",
+    "id": "027d7080",
+    "title": "Incident with Git Operations, Pull Requests and Actions – Resolved",
+    "url": "https://www.githubstatus.com/incidents/djlmxz2zd0j7",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-07T22:08:12.688Z",
+    "id": "8256e8cc",
+    "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
+    "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-07T22:08:13.741Z",
+    "id": "db59981c",
+    "title": "Integer multiplication below n log n",
+    "url": "https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026",
     "source": "hn",
     "wildcard": true
   }
