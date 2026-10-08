@@ -1438,5 +1438,37 @@
     "url": "https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-10-08T22:03:28.089Z",
+    "id": "00069d77",
+    "title": "Property Testing with Agent Swarms",
+    "url": "https://recursion.wtf/posts/agents-and-property-tests/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-08T22:03:29.130Z",
+    "id": "1b35443c",
+    "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+    "url": "https://github.com/pingdotgg/ts-rust",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-08T22:03:30.178Z",
+    "id": "4490a128",
+    "title": "Real-world lessons in agentic authority and overreach",
+    "url": "https://www.thoughtworks.com/insights/articles/real-world-lessons-agentic-authority-overreach",
+    "source": "rss",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-08T22:03:31.229Z",
+    "id": "507ed3fc",
+    "title": "New CRAM method offers giant boost to compressed memory reads",
+    "url": "https://www.tomshardware.com/software/linux/new-linux-tech-compresses-memory-in-ram-as-ram-for-452x-speedup-new-cram-method-offers-giant-boost-to-compressed-memory-reads",
+    "source": "hn",
+    "wildcard": true
   }
 ]
