@@ -1,98 +1,1442 @@
 [
   {
-    "at": "2026-07-24T09:04:48.620Z",
-    "id": "3bc63f29",
-    "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+    "at": "2026-08-26T22:03:02.680Z",
+    "id": "489929a1",
+    "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+    "url": "https://arxiv.org/abs/2607.21503",
     "source": "hn",
     "wildcard": false
   },
   {
-    "at": "2026-07-24T09:04:49.646Z",
-    "id": "90c787e5",
-    "title": "You can now run same OCI images as containers or Firecracker microVMs",
-    "url": "https://github.com/pullrun/pullrun",
+    "at": "2026-08-26T22:03:03.688Z",
+    "id": "22dba9e7",
+    "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+    "url": "https://github.com/runetes/maiao",
     "source": "hn",
     "wildcard": false
   },
   {
-    "at": "2026-07-24T09:04:50.641Z",
-    "id": "9b21689a",
-    "title": "Code mode yields a 99.2% cost reduction in our systems",
-    "url": "https://www.agent-swarm.dev/blog/code-mode-token-savings",
+    "at": "2026-08-26T22:03:04.695Z",
+    "id": "788dfb25",
+    "title": "When str.lower() is a security vulnerability in Python",
+    "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
     "source": "hn",
     "wildcard": false
   },
   {
-    "at": "2026-07-24T09:04:51.634Z",
-    "id": "2f559b07",
-    "title": "The Visual 6502",
-    "url": "http://visual6502.org/JSSim/index.html",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
-    "at": "2026-07-24T10:35:46.988Z",
-    "id": "11b62d30",
-    "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
-    "url": "https://github.com/onecli/onecli",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-24T10:35:47.939Z",
-    "id": "f42bd958",
-    "title": "xai-org/grok-build — SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-    "url": "https://github.com/xai-org/grok-build",
-    "source": "github",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-24T10:35:48.888Z",
-    "id": "3ad306b4",
-    "title": "mereyabdenbekuly-ctrl/clodex-ide — Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-    "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-    "source": "github",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-24T10:35:49.824Z",
-    "id": "9348fe9c",
-    "title": "Software rendering in 500 lines of bare C++",
-    "url": "https://haqr.eu/tinyrenderer/",
+    "at": "2026-08-26T22:03:05.711Z",
+    "id": "c452b108",
+    "title": "Memory Ordering in CPUs",
+    "url": "https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/",
     "source": "hn",
     "wildcard": true
   },
   {
-    "at": "2026-07-24T10:42:42.806Z",
-    "id": "997dd6ab",
-    "title": "lopopolo/harness-engineering — 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-    "url": "https://github.com/lopopolo/harness-engineering",
-    "source": "github",
-    "wildcard": false
-  },
-  {
-    "at": "2026-07-24T10:42:43.759Z",
-    "id": "6d0e7fa0",
-    "title": "The PImpl idiom and the C++26 std:indirect type",
-    "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+    "at": "2026-08-27T22:03:30.699Z",
+    "id": "1594dec7",
+    "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+    "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
     "source": "hn",
     "wildcard": false
   },
   {
-    "at": "2026-07-24T10:42:44.705Z",
-    "id": "a7d0116d",
-    "title": "I regret migrating to Codeberg",
-    "url": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
+    "at": "2026-08-27T22:03:31.726Z",
+    "id": "0dcbe660",
+    "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+    "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
     "source": "hn",
     "wildcard": false
   },
   {
-    "at": "2026-07-24T10:42:45.639Z",
-    "id": "0f535ae0",
-    "title": "A tour of MLIR: The Dialect Stack Everyone Depends On",
-    "url": "https://hiraditya.github.io/posts/mlir-dialect-stack-for-ml/",
+    "at": "2026-08-27T22:03:32.766Z",
+    "id": "06886439",
+    "title": "The Harness Is the Thing",
+    "url": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-27T22:03:33.790Z",
+    "id": "298520e4",
+    "title": "507 Mechanical Movements",
+    "url": "https://507movements.com/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-08-28T22:05:48.858Z",
+    "id": "10bff6cc",
+    "title": "Change-Detector Tests Considered Harmful (2015)",
+    "url": "https://testing.googleblog.com/2015/01/testing-on-toilet-change-detector-tests.html",
     "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-28T22:05:49.913Z",
+    "id": "7498e6bd",
+    "title": "Bootstrappable Builds: How and Why",
+    "url": "https://lwn.net/Articles/1088279/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-28T22:05:51.009Z",
+    "id": "fb181c2b",
+    "title": "Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",
+    "url": "https://github.com/kelviq/tare",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-28T22:05:52.066Z",
+    "id": "b79c60a6",
+    "title": "Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits",
+    "url": "https://www.hanselman.com/blog/debugging-my-new-network-when-10-gigabit-ethernet-runs-at-300-megabits",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-08-29T22:05:22.753Z",
+    "id": "12adde40",
+    "title": "I accidentally turned LLM memory into program analysis",
+    "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-29T22:05:23.793Z",
+    "id": "8eae3aea",
+    "title": "duty1g/x64dbg-mcp-server — x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistan",
+    "url": "https://github.com/duty1g/x64dbg-mcp-server",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-29T22:05:24.822Z",
+    "id": "99281737",
+    "title": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
+    "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-29T22:05:25.845Z",
+    "id": "c96e805b",
+    "title": "Parsing the Infamous Japanese Postal CSV",
+    "url": "https://www.dampfkraft.com/posuto.html",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-08-30T22:03:36.755Z",
+    "id": "fb0085bc",
+    "title": "A safe MySQL upgrade that wasn't so safe",
+    "url": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-30T22:03:37.765Z",
+    "id": "ee5f9d54",
+    "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+    "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-30T22:03:38.777Z",
+    "id": "773e6152",
+    "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+    "url": "https://github.com/anthropics/claude-code/issues/66504",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-30T22:03:39.785Z",
+    "id": "b89143fb",
+    "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+    "url": "https://komoroske.com/slime-mold/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-08-31T22:04:49.141Z",
+    "id": "8f2ed9fd",
+    "title": "Agent memory as a file format",
+    "url": "https://calpaterson.com/memoryfields.html",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-31T22:04:50.157Z",
+    "id": "9911b16a",
+    "title": "Data Became Code: We Ran Code Inside Fortune 500s Using Files They Published for AI Agents",
+    "url": "https://medium.com/@alonhertz1/data-became-code-we-ran-code-inside-fortune-500s-using-files-they-published-for-ai-agents-0cd67ffbbffc",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-31T22:04:51.168Z",
+    "id": "c7361bca",
+    "title": "uv: Deduplicate all files in the wheel cache",
+    "url": "https://github.com/astral-sh/uv/pull/21327",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-08-31T22:04:52.217Z",
+    "id": "6c64ba98",
+    "title": "Cheap GPS jammers are filling the world with navigation dead zones",
+    "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-01T22:05:40.054Z",
+    "id": "d6b322d6",
+    "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
+    "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-01T22:05:41.071Z",
+    "id": "4f6dab87",
+    "title": "damejan80/tokentab — A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "url": "https://github.com/damejan80/tokentab",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-01T22:05:42.084Z",
+    "id": "dfe53c18",
+    "title": "Io_uring Without Readahead",
+    "url": "https://frn.sh/io-uring/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-01T22:05:43.222Z",
+    "id": "6447115f",
+    "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+    "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-02T22:03:38.973Z",
+    "id": "0ae88a84",
+    "title": "Maybe We Shouldn't Be Reviewing All This Code",
+    "url": "https://martinfowler.com/rachels-ramblings/code-review.html",
+    "source": "rss",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-02T22:03:39.985Z",
+    "id": "cf155639",
+    "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+    "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-02T22:03:40.992Z",
+    "id": "0fe437a1",
+    "title": "Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x",
+    "url": "https://frontierharness.org",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-02T22:03:42.006Z",
+    "id": "fca5e363",
+    "title": "Embedded Rust RTOS vs. C RTOS",
+    "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-03T22:04:13.526Z",
+    "id": "08c092f7",
+    "title": "AI Agents and the Refactoring That Never Happens",
+    "url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-03T22:04:14.565Z",
+    "id": "78855ec0",
+    "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+    "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-03T22:04:15.602Z",
+    "id": "4bd88e0a",
+    "title": "How to Guarantee You Never Ship",
+    "url": "https://kore-nordmann.de/blog/how_to_guarantee_you_never_ship.html",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-03T22:04:16.638Z",
+    "id": "45650504",
+    "title": "Let's build a compressor from scratch",
+    "url": "https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/",
+    "source": "lobsters",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-04T22:04:28.444Z",
+    "id": "de53b1ca",
+    "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+    "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-04T22:04:29.462Z",
+    "id": "113b167a",
+    "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
+    "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-04T22:04:30.465Z",
+    "id": "f1e34982",
+    "title": "2akouwu/reverify — Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and gr",
+    "url": "https://github.com/2akouwu/reverify",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-04T22:04:31.467Z",
+    "id": "0e3af44b",
+    "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
+    "url": "https://carbonawarepricing.com/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-05T22:04:02.376Z",
+    "id": "44a6c9ac",
+    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-05T22:04:03.379Z",
+    "id": "2df61e78",
+    "title": "Anatomy of a Test",
+    "url": "https://jonathan-frere.com/posts/anatomy-of-a-test/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-05T22:04:04.498Z",
+    "id": "0bd76427",
+    "title": "Actively exploited sandbox RCE in all Chromium versions",
+    "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-05T22:04:05.513Z",
+    "id": "fc2856d3",
+    "title": "Updates on HEIR, the Homomorphic Encryption Compiler Project",
+    "url": "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-06T22:06:39.479Z",
+    "id": "f31be0c6",
+    "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+    "url": "https://github.com/okf-memory/okf-agent-memory",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-06T22:06:40.615Z",
+    "id": "87019ef3",
+    "title": "How we monitor internal coding agents for misalignment",
+    "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-06T22:06:41.638Z",
+    "id": "2ed23cee",
+    "title": "anthropics/fermats-last-theorem — (無描述)",
+    "url": "https://github.com/anthropics/fermats-last-theorem",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-06T22:06:42.655Z",
+    "id": "f3f093be",
+    "title": "jprx/darwin-vm — Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+    "url": "https://github.com/jprx/darwin-vm",
+    "source": "github",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-07T22:04:44.956Z",
+    "id": "0a021c99",
+    "title": "How well do agents use test/verification techniques?",
+    "url": "https://danluu.com/agentic-testing/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-07T22:04:45.984Z",
+    "id": "d99a7fe4",
+    "title": "Hardening Container Images",
+    "url": "https://www.grepular.com/Hardening_Container_Images",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-07T22:04:46.989Z",
+    "id": "425634d2",
+    "title": "sebbbi/NoGraphicsAPI — Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my \"No Graphics API\" blog post and the SIGGRAPH talk.",
+    "url": "https://github.com/sebbbi/NoGraphicsAPI",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-07T22:04:48.007Z",
+    "id": "f640cbd4",
+    "title": "bzip3",
+    "url": "https://github.com/iczelia/bzip3",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-08T22:04:03.003Z",
+    "id": "f35a8acf",
+    "title": "C*: Unifying Programming and Verification in C",
+    "url": "https://arxiv.org/abs/2504.02246",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-08T22:04:04.016Z",
+    "id": "2245a3ab",
+    "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+    "url": "https://rohanadwankar.github.io/posts/platforms.html",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-08T22:04:05.042Z",
+    "id": "16169d53",
+    "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-08T22:04:06.069Z",
+    "id": "8b5f7f93",
+    "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+    "url": "https://github.com/Sadpainy/Stuxnet",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-09T22:04:17.996Z",
+    "id": "62cb3648",
+    "title": "Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin",
+    "url": "https://vllm.ai/blog/2026-09-07-vllm-tt-plugin",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-09T22:04:19.058Z",
+    "id": "932ceeff",
+    "title": "So you want to use OpenRouter?",
+    "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-09T22:04:20.116Z",
+    "id": "bd9f5944",
+    "title": "Building Codex with Tibo Sottiaux",
+    "url": "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux",
+    "source": "rss",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-09T22:04:21.175Z",
+    "id": "59224a70",
+    "title": "Function Arguments Are Not Function Colors",
+    "url": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-10T22:03:41.147Z",
+    "id": "7e78d193",
+    "title": "Forgejo <=16.0.3 Critical RCE",
+    "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-10T22:03:42.167Z",
+    "id": "7855ce20",
+    "title": "Neki is sharded Postgres by PlanetScale",
+    "url": "https://neki.dev/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-10T22:03:43.183Z",
+    "id": "66f60d45",
+    "title": "Better AI code comment detector",
+    "url": "https://entropicthoughts.com/better-ai-comment-classifier",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-10T22:03:44.198Z",
+    "id": "a68f6360",
+    "title": "Factoring RSA 260",
+    "url": "https://cognition.com/blog/factoring-rsa-260",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-11T22:05:12.855Z",
+    "id": "7b6f7a87",
+    "title": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
+    "url": "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-11T22:05:13.877Z",
+    "id": "eb0dd229",
+    "title": "Measuring the sloppiness of code",
+    "url": "https://earendil.com/posts/measuring-code-sloppiness/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-11T22:05:14.999Z",
+    "id": "b2e24dfd",
+    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+    "url": "https://eiln.github.io/posts/ane.html",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-11T22:05:16.012Z",
+    "id": "0a4249c4",
+    "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+    "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-12T22:03:25.598Z",
+    "id": "17f9c107",
+    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+    "url": "https://www.rubyhack.ai/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-12T22:03:26.606Z",
+    "id": "4cfbd6f7",
+    "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+    "url": "https://github.com/zachsaw/graphify-csharp",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-12T22:03:27.631Z",
+    "id": "d35afbac",
+    "title": "Litelm: LiteLLM Without the Bloat",
+    "url": "https://github.com/kennethwolters/litelm",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-12T22:03:28.658Z",
+    "id": "287de84e",
+    "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+    "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-13T22:04:23.281Z",
+    "id": "15d32d01",
+    "title": "CUDA for AMD on Windows",
+    "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-13T22:04:24.310Z",
+    "id": "84a732ab",
+    "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+    "url": "https://hachyderm.io/@simontatham/117201594980991062",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-13T22:04:25.333Z",
+    "id": "a61b0f6c",
+    "title": "Libraries Run Rust Inside Python (With PyO3)",
+    "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-13T22:04:26.373Z",
+    "id": "a46b2e3b",
+    "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-14T22:03:49.114Z",
+    "id": "3f0311b5",
+    "title": "OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others",
+    "url": "https://calif.io/research/oempocalypse",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-14T22:03:50.175Z",
+    "id": "ccc98ec8",
+    "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+    "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-14T22:03:51.199Z",
+    "id": "6a7a5694",
+    "title": "Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats",
+    "url": "https://codeberg.org/mergiraf/mergiraf",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-14T22:03:52.212Z",
+    "id": "22737028",
+    "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
+    "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-15T22:04:06.335Z",
+    "id": "685a0346",
+    "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+    "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-15T22:04:07.349Z",
+    "id": "01a34575",
+    "title": "shadcn-ui/lint — An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.",
+    "url": "https://github.com/shadcn-ui/lint",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-15T22:04:08.373Z",
+    "id": "c7aeac0c",
+    "title": "Coreutils - rejected feature requests",
+    "url": "https://www.gnu.org/software/coreutils/rejected_requests.html",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-15T22:04:09.391Z",
+    "id": "877aa0bd",
+    "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+    "url": "https://codyho.dev/blog/gpu-driver/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-16T22:04:07.723Z",
+    "id": "0f67af44",
+    "title": "Datamimic – don't let your coding agent invent its own test world",
+    "url": "https://github.com/rapiddweller/datamimic",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-16T22:04:08.743Z",
+    "id": "f2224f40",
+    "title": "Scaling Golang CI by Replacing actions/setup-go",
+    "url": "https://www.cloudx.ai/posts/setup-go",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-16T22:04:09.770Z",
+    "id": "2a70d596",
+    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "url": "https://rohanbansal.com/qorl",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-16T22:04:10.786Z",
+    "id": "df6767ef",
+    "title": "A software thing I built: GPS on a 25MHz 486-SX",
+    "url": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-17T22:04:08.248Z",
+    "id": "f7533cfa",
+    "title": "OpenSpec – A lightweight and configurable AI spec framework",
+    "url": "https://openspec.dev/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-17T22:04:09.274Z",
+    "id": "51dd1051",
+    "title": "bonobomock: A GoogleTest-compatible C++ mocking library",
+    "url": "https://github.com/bloomberg/bonobomock/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-17T22:04:10.291Z",
+    "id": "1990b508",
+    "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+    "url": "https://ryan.science/blog/keys-not-included",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-17T22:04:11.306Z",
+    "id": "cb9dbf89",
+    "title": "openai/NavierStokesAndEuler — Lean certificates accompanying Navier-Stokes and Euler results",
+    "url": "https://github.com/openai/NavierStokesAndEuler",
+    "source": "github",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-18T22:05:16.188Z",
+    "id": "3f8ce213",
+    "title": "An empirical study of harness design for coding agents",
+    "url": "https://arxiv.org/abs/2609.20804",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-18T22:05:17.201Z",
+    "id": "b3566f38",
+    "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+    "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-18T22:05:18.216Z",
+    "id": "df810088",
+    "title": "How Uber Protects Against Retry Storms",
+    "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-18T22:05:19.240Z",
+    "id": "cf65b761",
+    "title": "How SpaceX streamlined the Raptor engine",
+    "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-19T22:03:11.743Z",
+    "id": "28f5c2de",
+    "title": "Tin: full-text search for Postgres",
+    "url": "https://planetscale.com/blog/introducing-tin",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-19T22:03:12.756Z",
+    "id": "556741f8",
+    "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+    "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-19T22:03:13.769Z",
+    "id": "9aeec529",
+    "title": "We made Playwright 2x faster and 80% more token efficient",
+    "url": "https://github.com/browserbase/stagehand",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-19T22:03:14.783Z",
+    "id": "b3ed2c1e",
+    "title": "How did AMD Ryzen get 50% faster in two years?",
+    "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-20T22:03:15.772Z",
+    "id": "6cc7aeef",
+    "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
+    "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-20T22:03:16.786Z",
+    "id": "c18243cb",
+    "title": "Deterministic Core, Non-Deterministic Shell",
+    "url": "https://outdata.net/blog/260803",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-20T22:03:17.797Z",
+    "id": "a99e3207",
+    "title": "crwdla/tokentab — A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "url": "https://github.com/crwdla/tokentab",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-20T22:03:18.808Z",
+    "id": "921e0122",
+    "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+    "url": "https://eprint.iacr.org/2026/2039",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-21T22:04:31.324Z",
+    "id": "015dbc4f",
+    "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+    "url": "https://linear.app/now/ci-bottleneck-reworked",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-21T22:04:32.333Z",
+    "id": "b3a6ebf5",
+    "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+    "url": "https://github.com/aru-labs/lossless-memory",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-21T22:04:33.353Z",
+    "id": "b1310954",
+    "title": "Trying the software factory pattern",
+    "url": "https://lethain.com/software-factory-experiment/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-21T22:04:34.369Z",
+    "id": "2faaa8df",
+    "title": "How do Traffic Signals Work (2019)",
+    "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-22T22:04:19.024Z",
+    "id": "74913b77",
+    "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+    "url": "https://github.com/naw103/foremerge",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-22T22:04:20.069Z",
+    "id": "6a137601",
+    "title": "Writing Rust code that's fast by asking agents to make the code faster",
+    "url": "https://minimaxir.com/2026/09/agentic-iteration/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-22T22:04:21.114Z",
+    "id": "0f02379e",
+    "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
+    "url": "https://droprun.sh/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-22T22:04:22.157Z",
+    "id": "30263718",
+    "title": "HERMES radio enables voice and data communication over vast distances",
+    "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-23T22:05:20.088Z",
+    "id": "5f54a61a",
+    "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+    "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-23T22:05:21.134Z",
+    "id": "ee8f28d7",
+    "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+    "url": "https://foxscript.org/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-23T22:05:22.171Z",
+    "id": "f826fd21",
+    "title": "Why do common Rust packages depend on C code? (2023)",
+    "url": "https://langdev.stackexchange.com/questions/3233/why-do-common-rust-packages-depend-on-c-code/3237#3237",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-23T22:05:23.264Z",
+    "id": "59ff67e3",
+    "title": "Abandoning Scientific Linux Was a Mistake",
+    "url": "https://blog.melashri.net/posts/scientific-linux-mistake/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-24T22:05:01.184Z",
+    "id": "c5fac7cb",
+    "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+    "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-24T22:05:02.250Z",
+    "id": "3f642246",
+    "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+    "url": "https://github.com/nestrilabs/virtio-nvgpu",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-24T22:05:03.303Z",
+    "id": "b3dd8bf9",
+    "title": "From Thin Air to Bootable Images: The tine Build System",
+    "url": "https://amutable.com/blog/tine-build-system",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-24T22:05:04.355Z",
+    "id": "32030eeb",
+    "title": "Combining Machine Learning and Homomorphic Encryption in the Apple Ecosystem",
+    "url": "https://machinelearning.apple.com/research/homomorphic-encryption",
+    "source": "lobsters",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-25T22:03:26.986Z",
+    "id": "8fc9916b",
+    "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+    "url": "https://github.com/git-bug/git-bug",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-25T22:03:28.057Z",
+    "id": "b0973fcd",
+    "title": "katamari architecture",
+    "url": "https://nove.dev/blog/katamari-architecture/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-25T22:03:29.116Z",
+    "id": "f2e16447",
+    "title": "Entering and Breaking the Avast Antivirus Sandbox Part 2",
+    "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-25T22:03:30.160Z",
+    "id": "712951db",
+    "title": "Astronomer watches Starlink satellites sinking to build a 'planetary barometer'",
+    "url": "https://www.theregister.com/science/2026/09/25/astronomer-watches-starlink-satellites-sinking-to-build-a-planetary-barometer/5299036",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-26T22:03:36.569Z",
+    "id": "b040c920",
+    "title": "Is your Postgres migration safe or not safe?",
+    "url": "https://safenotsafe.dev/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-26T22:03:37.623Z",
+    "id": "e9c329cd",
+    "title": "There is more to code review than (automatable) detection",
+    "url": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-26T22:03:38.680Z",
+    "id": "2eb5a414",
+    "title": "Rusty thoughts on \"Parse, don't validate\"",
+    "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-26T22:03:39.734Z",
+    "id": "2fe6a8e3",
+    "title": "A Brief Perspective on Deep Learning Using Common Lisp",
+    "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
+    "source": "lobsters",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-27T22:04:48.817Z",
+    "id": "66af2562",
+    "title": "Don't couple your Go code to GitHub",
+    "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-27T22:04:49.874Z",
+    "id": "900e34db",
+    "title": "What Improves Developer Productivity at Google? Code Quality (2022)",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3540250.3558940",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-27T22:04:50.939Z",
+    "id": "38d2949b",
+    "title": "Faster prompt lookup drafting in llama.cpp",
+    "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-27T22:04:51.997Z",
+    "id": "dd92bc66",
+    "title": "Video CDs Break Windows Explorer",
+    "url": "https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-28T22:03:32.162Z",
+    "id": "04b1816a",
+    "title": "The problem is not AI code, but not knowing about system architecture or intent",
+    "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-28T22:03:33.207Z",
+    "id": "b0493435",
+    "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+    "url": "https://earnanhonestdollar.com/bench",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-28T22:03:34.258Z",
+    "id": "414e8180",
+    "title": "DogWood: Monitoring Policies using First Order Temporal Logic",
+    "url": "https://aws.amazon.com/blogs/opensource/introducing-dogwood-runtime-verification-for-ai-agents/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-28T22:03:35.290Z",
+    "id": "97f7725d",
+    "title": "Self-Hosting on the Dark Web",
+    "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-29T22:03:46.293Z",
+    "id": "00aaac94",
+    "title": "Engineering the harness: A practical pattern for reliable coding agents",
+    "url": "https://www.thoughtworks.com/insights/blog/architecture/engineering-the-harness-a-practical-pattern-for-reliable-coding-agents",
+    "source": "rss",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-29T22:03:47.327Z",
+    "id": "f550061b",
+    "title": "GrapheneOS – When an app is slow",
+    "url": "https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-29T22:03:48.361Z",
+    "id": "a1ea0140",
+    "title": "My experience writing automated tests for a SPA",
+    "url": "https://reecoute.fr/tech_blog/2026-09-28_my-experience-writing-automated-tests-for-a-spa",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-29T22:03:49.408Z",
+    "id": "845f25dd",
+    "title": "Show HN: NSL – WSL for Linux",
+    "url": "https://frostyard.github.io/nsl/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-09-30T22:03:29.141Z",
+    "id": "33cb5003",
+    "title": "Commit description as a thinking tool",
+    "url": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-30T22:03:30.185Z",
+    "id": "2e3d5dcc",
+    "title": "You said no MCP",
+    "url": "https://earendil.com/posts/you-said-no-mcp/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-30T22:03:31.220Z",
+    "id": "8fcdcbd7",
+    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+    "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-09-30T22:03:32.267Z",
+    "id": "75d9a59f",
+    "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+    "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-01T22:03:19.475Z",
+    "id": "d270242d",
+    "title": "ParadeDB Search Performance Improvements",
+    "url": "https://www.paradedb.com/blog/opening-a-closed-tin",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-01T22:03:20.552Z",
+    "id": "fd33487c",
+    "title": "Is sandboxing sufficient to contain rogue agents?",
+    "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-01T22:03:21.646Z",
+    "id": "9f58bc05",
+    "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+    "url": "https://blog.gitbutler.com/git-3-sha-256",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-01T22:03:22.728Z",
+    "id": "8395a4e2",
+    "title": "Functional Ultrasound Imaging (fUSI) from scratch",
+    "url": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-02T22:03:17.707Z",
+    "id": "443750ee",
+    "title": "Anatomy of a Lean proof for software engineers",
+    "url": "https://agostbiro.net/posts/2026-10-anatomy-of-a-lean-proof/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-02T22:03:18.792Z",
+    "id": "31ef498d",
+    "title": "Bez: Generating a browser engine from specs and tests",
+    "url": "https://tangled.org/burrito.space/bez",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-02T22:03:19.874Z",
+    "id": "8c1b354d",
+    "title": "The hidden design compromises of Docker layers",
+    "url": "https://loige.co/hidden-design-compromises-of-docker-layers/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-02T22:03:20.959Z",
+    "id": "1f9ad68e",
+    "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+    "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-03T22:03:57.346Z",
+    "id": "febcfecb",
+    "title": "Pop!_OS bans AI-generated code from much of its codebase",
+    "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-03T22:03:58.385Z",
+    "id": "884bedec",
+    "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+    "url": "https://pipod.dev/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-03T22:03:59.439Z",
+    "id": "e0bdbfcb",
+    "title": "The Four Horsemen of Agentic Coding",
+    "url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-03T22:04:00.486Z",
+    "id": "ddac069f",
+    "title": "Cloudflare OHTTP gateway",
+    "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-04T22:02:52.291Z",
+    "id": "f896e86c",
+    "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+    "url": "https://github.com/PowderworksCode/headstart",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-04T22:02:53.329Z",
+    "id": "9c019fba",
+    "title": "Why I recommend Renovate over any other dependency update tools (2024)",
+    "url": "https://www.jvt.me/posts/2024/04/12/use-renovate/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-04T22:02:54.366Z",
+    "id": "2ad697ea",
+    "title": "Agents don't need memory, they need documentation",
+    "url": "https://liao.gg/blog/agents-dont-need-memory",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-04T22:02:55.428Z",
+    "id": "b7accd4f",
+    "title": "How to hack time, with C2PA",
+    "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-05T22:04:17.112Z",
+    "id": "c261b367",
+    "title": "Incident with Actions",
+    "url": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-05T22:04:18.171Z",
+    "id": "2e4dd434",
+    "title": "Ephemeral testing",
+    "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-05T22:04:19.257Z",
+    "id": "1cf5e38d",
+    "title": "A 40ms Go garbage collector pause caused by swap",
+    "url": "https://frn.sh/go-gc/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-05T22:04:20.324Z",
+    "id": "08ab9f47",
+    "title": "Making a GTK application in Haskell, part 1",
+    "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-06T22:04:28.089Z",
+    "id": "f9f039fa",
+    "title": "Two ARM64-specific compiler optimization bugs, in GCC 15/16 and Rust, hit curl",
+    "url": "https://mastodon.social/@bagder/117392573268225646",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-06T22:04:29.139Z",
+    "id": "ac6a2a5d",
+    "title": "The Early History of Smalltalk (1993)",
+    "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-06T22:04:30.178Z",
+    "id": "388f9a01",
+    "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
+    "url": "https://www.parseable.com",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-06T22:04:31.224Z",
+    "id": "2cb74e6c",
+    "title": "Subquadratic 3SUM and Subcubic APSP",
+    "url": "https://arxiv.org/abs/2610.06783",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-07T22:08:10.564Z",
+    "id": "f266a14d",
+    "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+    "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-07T22:08:11.626Z",
+    "id": "027d7080",
+    "title": "Incident with Git Operations, Pull Requests and Actions – Resolved",
+    "url": "https://www.githubstatus.com/incidents/djlmxz2zd0j7",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-07T22:08:12.688Z",
+    "id": "8256e8cc",
+    "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
+    "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-07T22:08:13.741Z",
+    "id": "db59981c",
+    "title": "Integer multiplication below n log n",
+    "url": "https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-08T22:03:28.089Z",
+    "id": "00069d77",
+    "title": "Property Testing with Agent Swarms",
+    "url": "https://recursion.wtf/posts/agents-and-property-tests/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-08T22:03:29.130Z",
+    "id": "1b35443c",
+    "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+    "url": "https://github.com/pingdotgg/ts-rust",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-08T22:03:30.178Z",
+    "id": "4490a128",
+    "title": "Real-world lessons in agentic authority and overreach",
+    "url": "https://www.thoughtworks.com/insights/articles/real-world-lessons-agentic-authority-overreach",
+    "source": "rss",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-08T22:03:31.229Z",
+    "id": "507ed3fc",
+    "title": "New CRAM method offers giant boost to compressed memory reads",
+    "url": "https://www.tomshardware.com/software/linux/new-linux-tech-compresses-memory-in-ram-as-ram-for-452x-speedup-new-cram-method-offers-giant-boost-to-compressed-memory-reads",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-09T22:04:09.635Z",
+    "id": "cc9c6835",
+    "title": "The Hetzner Cloud network stack – history and technical overview",
+    "url": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-09T22:04:10.689Z",
+    "id": "39b1c476",
+    "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
+    "url": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-09T22:04:11.744Z",
+    "id": "61859197",
+    "title": "64-Day Certificate Lifetimes Coming Feb 2027",
+    "url": "https://letsencrypt.org/2026/10/07/64-day-certs.html",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-09T22:04:12.794Z",
+    "id": "623cc6d8",
+    "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+    "url": "https://carrierexplode.com/",
+    "source": "hn",
     "wildcard": true
   }
 ]
