@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-08-26T22:03:02.680Z",
-    "id": "489929a1",
-    "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
-    "url": "https://arxiv.org/abs/2607.21503",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-26T22:03:03.688Z",
-    "id": "22dba9e7",
-    "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-    "url": "https://github.com/runetes/maiao",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-26T22:03:04.695Z",
-    "id": "788dfb25",
-    "title": "When str.lower() is a security vulnerability in Python",
-    "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-26T22:03:05.711Z",
-    "id": "c452b108",
-    "title": "Memory Ordering in CPUs",
-    "url": "https://fgiesen.wordpress.com/2026/08/25/memory-ordering-in-cpus/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-08-27T22:03:30.699Z",
     "id": "1594dec7",
     "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
@@ -1437,6 +1405,38 @@
     "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
     "url": "https://carrierexplode.com/",
     "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-10T22:03:40.598Z",
+    "id": "d6321d1e",
+    "title": "Why DuckDB 2.0 is faster",
+    "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-10T22:03:41.638Z",
+    "id": "f5584d2b",
+    "title": "Compiling Rust to readable C with Eurydice",
+    "url": "https://lwn.net/Articles/1055211/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-10T22:03:42.679Z",
+    "id": "1949651c",
+    "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
+    "url": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-10T22:03:43.733Z",
+    "id": "12771284",
+    "title": "nullmoth/nvidia-macos-driver — Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+    "url": "https://github.com/nullmoth/nvidia-macos-driver",
+    "source": "github",
     "wildcard": true
   }
 ]
