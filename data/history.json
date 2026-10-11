@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-08-27T22:03:30.699Z",
-    "id": "1594dec7",
-    "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
-    "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-27T22:03:31.726Z",
-    "id": "0dcbe660",
-    "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-    "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-27T22:03:32.766Z",
-    "id": "06886439",
-    "title": "The Harness Is the Thing",
-    "url": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-27T22:03:33.790Z",
-    "id": "298520e4",
-    "title": "507 Mechanical Movements",
-    "url": "https://507movements.com/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-08-28T22:05:48.858Z",
     "id": "10bff6cc",
     "title": "Change-Detector Tests Considered Harmful (2015)",
@@ -1437,6 +1405,38 @@
     "title": "nullmoth/nvidia-macos-driver — Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
     "url": "https://github.com/nullmoth/nvidia-macos-driver",
     "source": "github",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-11T22:03:48.060Z",
+    "id": "68fdf4eb",
+    "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-11T22:03:49.120Z",
+    "id": "11d2efcc",
+    "title": "I paid people to try and follow my README",
+    "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-11T22:03:50.190Z",
+    "id": "9699b3a9",
+    "title": "How I reverse engineered a commercial spatial audio effect",
+    "url": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-11T22:03:51.301Z",
+    "id": "cbcb25b6",
+    "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+    "url": "https://verdagon.dev/blog/valen-group-borrowing",
+    "source": "hn",
     "wildcard": true
   }
 ]
