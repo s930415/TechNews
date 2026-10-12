@@ -1438,5 +1438,37 @@
     "url": "https://verdagon.dev/blog/valen-group-borrowing",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-10-12T22:04:25.032Z",
+    "id": "0a35fb14",
+    "title": "Local Indexing to reduce tool calling and token usage",
+    "url": "https://tedhaley.ca/pensieve/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-12T22:04:26.071Z",
+    "id": "9239f96f",
+    "title": "Postgres isn't slow, your storage is",
+    "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-12T22:04:27.115Z",
+    "id": "527d9653",
+    "title": "Zod 4.6.6 compromised by malware?",
+    "url": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-12T22:04:28.150Z",
+    "id": "d268e81a",
+    "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+    "url": "https://github.com/h0m3us3r/w1700k-sdr",
+    "source": "hn",
+    "wildcard": true
   }
 ]
