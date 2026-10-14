@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-08-29T22:05:22.753Z",
-    "id": "12adde40",
-    "title": "I accidentally turned LLM memory into program analysis",
-    "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-29T22:05:23.793Z",
-    "id": "8eae3aea",
-    "title": "duty1g/x64dbg-mcp-server — x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistan",
-    "url": "https://github.com/duty1g/x64dbg-mcp-server",
-    "source": "github",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-29T22:05:24.822Z",
-    "id": "99281737",
-    "title": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy",
-    "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-29T22:05:25.845Z",
-    "id": "c96e805b",
-    "title": "Parsing the Infamous Japanese Postal CSV",
-    "url": "https://www.dampfkraft.com/posuto.html",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-08-30T22:03:36.755Z",
     "id": "fb0085bc",
     "title": "A safe MySQL upgrade that wasn't so safe",
@@ -1470,5 +1438,37 @@
     "url": "https://github.com/openai/codex/issues/48195",
     "source": "hn",
     "wildcard": false
+  },
+  {
+    "at": "2026-10-14T22:03:13.771Z",
+    "id": "c2de06a2",
+    "title": "What agents mean for Rust (and vice versa)",
+    "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-14T22:03:14.830Z",
+    "id": "be362ab1",
+    "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+    "url": "https://github.com/timescale/pg_vectorsearch",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-14T22:03:15.878Z",
+    "id": "86242785",
+    "title": "Running Windows desktop tests from Linux with disposable VMs",
+    "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-14T22:03:16.943Z",
+    "id": "0cd10464",
+    "title": "Submarine cable resilience",
+    "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
