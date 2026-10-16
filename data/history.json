@@ -1,69 +1,5 @@
 [
   {
-    "at": "2026-08-30T22:03:36.755Z",
-    "id": "fb0085bc",
-    "title": "A safe MySQL upgrade that wasn't so safe",
-    "url": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-30T22:03:37.765Z",
-    "id": "ee5f9d54",
-    "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-    "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-30T22:03:38.777Z",
-    "id": "773e6152",
-    "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-    "url": "https://github.com/anthropics/claude-code/issues/66504",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-30T22:03:39.785Z",
-    "id": "b89143fb",
-    "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
-    "url": "https://komoroske.com/slime-mold/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
-    "at": "2026-08-31T22:04:49.141Z",
-    "id": "8f2ed9fd",
-    "title": "Agent memory as a file format",
-    "url": "https://calpaterson.com/memoryfields.html",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-31T22:04:50.157Z",
-    "id": "9911b16a",
-    "title": "Data Became Code: We Ran Code Inside Fortune 500s Using Files They Published for AI Agents",
-    "url": "https://medium.com/@alonhertz1/data-became-code-we-ran-code-inside-fortune-500s-using-files-they-published-for-ai-agents-0cd67ffbbffc",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-31T22:04:51.168Z",
-    "id": "c7361bca",
-    "title": "uv: Deduplicate all files in the wheel cache",
-    "url": "https://github.com/astral-sh/uv/pull/21327",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-08-31T22:04:52.217Z",
-    "id": "6c64ba98",
-    "title": "Cheap GPS jammers are filling the world with navigation dead zones",
-    "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-09-01T22:05:40.054Z",
     "id": "d6b322d6",
     "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
@@ -1468,6 +1404,38 @@
     "id": "0cd10464",
     "title": "Submarine cable resilience",
     "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-16T22:03:49.733Z",
+    "id": "9a739443",
+    "title": "How the Claude Code team does code review",
+    "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-16T22:03:50.773Z",
+    "id": "e4018d8e",
+    "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+    "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-16T22:03:51.819Z",
+    "id": "7a6a342e",
+    "title": "Claude reveals ECDSA curve origins",
+    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-16T22:03:52.856Z",
+    "id": "d9145e69",
+    "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
+    "url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
     "source": "hn",
     "wildcard": true
   }
