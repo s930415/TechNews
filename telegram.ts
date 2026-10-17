@@ -144,6 +144,28 @@ export async function acknowledge(tap: Tap): Promise<void> {
   }).catch(() => {});
 }
 
+/**
+ * 檔案模式：從 TechNewbot（bot.mjs，token 的唯一 getUpdates 消費者）落的 jsonl 讀回饋。
+ * 兩個程式對同一個 bot token 各自 getUpdates 會互吃訊息（2026-07-29 事故），
+ * 所以伺服器上一律走這條；bot 端已 ack 過按鈕，這裡只負責記錄。
+ */
+export async function readTapsFile(file: string, afterId: number): Promise<Tap[]> {
+  const { readFile } = await import('node:fs/promises');
+  let raw: string;
+  try { raw = await readFile(file, 'utf8'); } catch { return []; }
+  const taps: Tap[] = [];
+  for (const line of raw.split('\n')) {
+    if (!line.trim()) continue;
+    try {
+      const t = JSON.parse(line) as { updateId: number; itemId: string; verdict: string };
+      if (t.updateId > afterId && VERDICTS.includes(t.verdict as Verdict)) {
+        taps.push({ updateId: t.updateId, callbackId: '', chatId: 0, messageId: 0, itemId: t.itemId, verdict: t.verdict as Verdict });
+      }
+    } catch { /* 壞行跳過 */ }
+  }
+  return taps;
+}
+
 /** 取最新的 update_id，避免第一次執行時把歷史訊息全撈進來 */
 export async function currentOffset(): Promise<number> {
   const updates = await call<RawUpdate[]>('getUpdates', { limit: 1, offset: -1, timeout: 0 });
