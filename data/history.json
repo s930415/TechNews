@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-09-01T22:05:40.054Z",
-    "id": "d6b322d6",
-    "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
-    "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-01T22:05:41.071Z",
-    "id": "4f6dab87",
-    "title": "damejan80/tokentab — A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-    "url": "https://github.com/damejan80/tokentab",
-    "source": "github",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-01T22:05:42.084Z",
-    "id": "dfe53c18",
-    "title": "Io_uring Without Readahead",
-    "url": "https://frn.sh/io-uring/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-01T22:05:43.222Z",
-    "id": "6447115f",
-    "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
-    "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-09-02T22:03:38.973Z",
     "id": "0ae88a84",
     "title": "Maybe We Shouldn't Be Reviewing All This Code",
@@ -1436,6 +1404,38 @@
     "id": "d9145e69",
     "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
     "url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-17T22:03:02.860Z",
+    "id": "072f3289",
+    "title": "Developing for Debugging (2025)",
+    "url": "https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-17T22:03:03.894Z",
+    "id": "33d35e01",
+    "title": "Development statistics for the 7.2 kernel",
+    "url": "https://lwn.net/Articles/1088776/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-17T22:03:04.917Z",
+    "id": "49b49c1c",
+    "title": "OpenCode Hacked: User credentials leaked",
+    "url": "https://twitter.com/opencode/status/2111516673953935833",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-17T22:03:06.024Z",
+    "id": "f4f8e669",
+    "title": "Source code of the Estonian online voting system",
+    "url": "https://github.com/valimised/ivxv",
     "source": "hn",
     "wildcard": true
   }
