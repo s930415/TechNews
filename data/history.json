@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-09-03T22:04:13.526Z",
-    "id": "08c092f7",
-    "title": "AI Agents and the Refactoring That Never Happens",
-    "url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-03T22:04:14.565Z",
-    "id": "78855ec0",
-    "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
-    "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-03T22:04:15.602Z",
-    "id": "4bd88e0a",
-    "title": "How to Guarantee You Never Ship",
-    "url": "https://kore-nordmann.de/blog/how_to_guarantee_you_never_ship.html",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-03T22:04:16.638Z",
-    "id": "45650504",
-    "title": "Let's build a compressor from scratch",
-    "url": "https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/",
-    "source": "lobsters",
-    "wildcard": true
-  },
-  {
     "at": "2026-09-04T22:04:28.444Z",
     "id": "de53b1ca",
     "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
@@ -1437,6 +1405,38 @@
     "title": "Algorithmic Sound Design with L-Systems and Granular Synthesis",
     "url": "https://nathanho.me/posts/evograin/",
     "source": "lobsters",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-19T22:03:33.702Z",
+    "id": "35202454",
+    "title": "Speeding up code review with `small-change`",
+    "url": "https://lethain.com/small-changes/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-19T22:03:35.080Z",
+    "id": "2fedff38",
+    "title": "feder-cr/git-ai — Git designed for AI agents.",
+    "url": "https://github.com/feder-cr/git-ai",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-19T22:03:36.081Z",
+    "id": "c08e28e1",
+    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-19T22:03:37.094Z",
+    "id": "419420d4",
+    "title": "Wine ported to OpenBSD",
+    "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+    "source": "hn",
     "wildcard": true
   }
 ]
