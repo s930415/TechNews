@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-09-04T22:04:28.444Z",
-    "id": "de53b1ca",
-    "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
-    "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-04T22:04:29.462Z",
-    "id": "113b167a",
-    "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
-    "url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-04T22:04:30.465Z",
-    "id": "f1e34982",
-    "title": "2akouwu/reverify — Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and gr",
-    "url": "https://github.com/2akouwu/reverify",
-    "source": "github",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-04T22:04:31.467Z",
-    "id": "0e3af44b",
-    "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
-    "url": "https://carbonawarepricing.com/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-09-05T22:04:02.376Z",
     "id": "44a6c9ac",
     "title": "Portal by Spotify cut my Claude Code token usage by 90%",
@@ -1436,6 +1404,38 @@
     "id": "419420d4",
     "title": "Wine ported to OpenBSD",
     "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-20T22:03:31.851Z",
+    "id": "6718ea3c",
+    "title": "Jepsen: Orkes Conductor 5.3.2",
+    "url": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-20T22:03:32.874Z",
+    "id": "8ffede9a",
+    "title": "EMudhra Intermediate CA Compromise",
+    "url": "https://emudhra.we-have-a-problem.com/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-20T22:03:33.884Z",
+    "id": "c5d69ce6",
+    "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+    "url": "https://github.com/golang/go/issues/82345",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-20T22:03:34.904Z",
+    "id": "32c44052",
+    "title": "How I got over 300 Tor exit nodes removed",
+    "url": "https://kaba.cx/posts/20261020_Tor/",
     "source": "hn",
     "wildcard": true
   }
