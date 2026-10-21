@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-09-05T22:04:02.376Z",
-    "id": "44a6c9ac",
-    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-05T22:04:03.379Z",
-    "id": "2df61e78",
-    "title": "Anatomy of a Test",
-    "url": "https://jonathan-frere.com/posts/anatomy-of-a-test/",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-05T22:04:04.498Z",
-    "id": "0bd76427",
-    "title": "Actively exploited sandbox RCE in all Chromium versions",
-    "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-05T22:04:05.513Z",
-    "id": "fc2856d3",
-    "title": "Updates on HEIR, the Homomorphic Encryption Compiler Project",
-    "url": "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-09-06T22:06:39.479Z",
     "id": "f31be0c6",
     "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
@@ -1437,6 +1405,38 @@
     "title": "How I got over 300 Tor exit nodes removed",
     "url": "https://kaba.cx/posts/20261020_Tor/",
     "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-21T22:03:34.471Z",
+    "id": "402b082e",
+    "title": "AI agent fixed the bug, but what else did it change?",
+    "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-21T22:03:35.466Z",
+    "id": "39803959",
+    "title": "LayerFS: The filesystem for AI coding agents",
+    "url": "https://layerfs.ai/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-21T22:03:36.472Z",
+    "id": "871d740e",
+    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-21T22:03:37.475Z",
+    "id": "d1bab045",
+    "title": "How to Run Turing-Complete Malware in PyTorch's Backward Pass",
+    "url": "https://elonlit.com/scrivings/how-to-run-turing-complete-malware-in-pytorchs-backward-pass/",
+    "source": "lobsters",
     "wildcard": true
   }
 ]
