@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-09-06T22:06:39.479Z",
-    "id": "f31be0c6",
-    "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-    "url": "https://github.com/okf-memory/okf-agent-memory",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-06T22:06:40.615Z",
-    "id": "87019ef3",
-    "title": "How we monitor internal coding agents for misalignment",
-    "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-06T22:06:41.638Z",
-    "id": "2ed23cee",
-    "title": "anthropics/fermats-last-theorem — (無描述)",
-    "url": "https://github.com/anthropics/fermats-last-theorem",
-    "source": "github",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-06T22:06:42.655Z",
-    "id": "f3f093be",
-    "title": "jprx/darwin-vm — Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
-    "url": "https://github.com/jprx/darwin-vm",
-    "source": "github",
-    "wildcard": true
-  },
-  {
     "at": "2026-09-07T22:04:44.956Z",
     "id": "0a021c99",
     "title": "How well do agents use test/verification techniques?",
@@ -1437,6 +1405,38 @@
     "title": "How to Run Turing-Complete Malware in PyTorch's Backward Pass",
     "url": "https://elonlit.com/scrivings/how-to-run-turing-complete-malware-in-pytorchs-backward-pass/",
     "source": "lobsters",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-22T22:04:13.172Z",
+    "id": "b328ea61",
+    "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+    "url": "https://github.com/omnara-ai/omnara",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-22T22:04:14.173Z",
+    "id": "da87a51a",
+    "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+    "url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-22T22:04:15.180Z",
+    "id": "f820cbac",
+    "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+    "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-22T22:04:16.177Z",
+    "id": "24575726",
+    "title": "rohit267/net-merge — Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
+    "url": "https://github.com/rohit267/net-merge",
+    "source": "github",
     "wildcard": true
   }
 ]
