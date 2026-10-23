@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-09-07T22:04:44.956Z",
-    "id": "0a021c99",
-    "title": "How well do agents use test/verification techniques?",
-    "url": "https://danluu.com/agentic-testing/",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-07T22:04:45.984Z",
-    "id": "d99a7fe4",
-    "title": "Hardening Container Images",
-    "url": "https://www.grepular.com/Hardening_Container_Images",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-07T22:04:46.989Z",
-    "id": "425634d2",
-    "title": "sebbbi/NoGraphicsAPI — Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my \"No Graphics API\" blog post and the SIGGRAPH talk.",
-    "url": "https://github.com/sebbbi/NoGraphicsAPI",
-    "source": "github",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-07T22:04:48.007Z",
-    "id": "f640cbd4",
-    "title": "bzip3",
-    "url": "https://github.com/iczelia/bzip3",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-09-08T22:04:03.003Z",
     "id": "f35a8acf",
     "title": "C*: Unifying Programming and Verification in C",
@@ -1437,6 +1405,38 @@
     "title": "rohit267/net-merge — Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
     "url": "https://github.com/rohit267/net-merge",
     "source": "github",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-23T22:02:35.860Z",
+    "id": "ee098f67",
+    "title": "UUIDv7 doesn't have the properties you think it does",
+    "url": "https://alexsci.com/blog/uuidv7-is-weird/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-23T22:02:36.860Z",
+    "id": "81c9b307",
+    "title": "Can we replace a $150k Looker with a bucket of HTML files?",
+    "url": "https://david.lequin.dev/blog/bi-software-is-dead/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-23T22:02:37.875Z",
+    "id": "1360bd8e",
+    "title": "LLMs are making formal software verification feasible at a much larger scale",
+    "url": "https://www.anthropic.com/research/formal-verification",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-23T22:02:38.883Z",
+    "id": "ee67c9da",
+    "title": "Jank – The native Clojure dialect with seamless C++ interop",
+    "url": "https://jank-lang.org/",
+    "source": "hn",
     "wildcard": true
   }
 ]
