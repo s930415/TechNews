@@ -1406,5 +1406,37 @@
     "url": "https://cfsg.axiommath.ai/",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-10-28T22:03:25.517Z",
+    "id": "4e1770d9",
+    "title": "The 14 GB cold-start problem: Rebuilding self-hosted GitHub Actions runners on Azure Kubernetes Service",
+    "url": "https://www.thoughtworks.com/insights/articles/rebuilding-self-hosted-github-actions-runners-on-aks",
+    "source": "rss",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-28T22:03:26.527Z",
+    "id": "1ca8390d",
+    "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+    "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-28T22:03:27.567Z",
+    "id": "71d9cb2b",
+    "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+    "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-28T22:03:28.569Z",
+    "id": "9dc319c3",
+    "title": "Qwen has alter egos triggered by flipping a single neuron",
+    "url": "https://qwen-neurons-site.vercel.app/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
