@@ -1,69 +1,5 @@
 [
   {
-    "at": "2026-09-15T22:04:06.335Z",
-    "id": "685a0346",
-    "title": "We got admin access to Baseten's production GitHub in 25 minutes",
-    "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-15T22:04:07.349Z",
-    "id": "01a34575",
-    "title": "shadcn-ui/lint — An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.",
-    "url": "https://github.com/shadcn-ui/lint",
-    "source": "github",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-15T22:04:08.373Z",
-    "id": "c7aeac0c",
-    "title": "Coreutils - rejected feature requests",
-    "url": "https://www.gnu.org/software/coreutils/rejected_requests.html",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-15T22:04:09.391Z",
-    "id": "877aa0bd",
-    "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-    "url": "https://codyho.dev/blog/gpu-driver/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
-    "at": "2026-09-16T22:04:07.723Z",
-    "id": "0f67af44",
-    "title": "Datamimic – don't let your coding agent invent its own test world",
-    "url": "https://github.com/rapiddweller/datamimic",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-16T22:04:08.743Z",
-    "id": "f2224f40",
-    "title": "Scaling Golang CI by Replacing actions/setup-go",
-    "url": "https://www.cloudx.ai/posts/setup-go",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-16T22:04:09.770Z",
-    "id": "2a70d596",
-    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-    "url": "https://rohanbansal.com/qorl",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-16T22:04:10.786Z",
-    "id": "df6767ef",
-    "title": "A software thing I built: GPS on a 25MHz 486-SX",
-    "url": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-09-17T22:04:08.248Z",
     "id": "f7533cfa",
     "title": "OpenSpec – A lightweight and configurable AI spec framework",
@@ -1437,6 +1373,38 @@
     "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
     "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
     "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-10-31T22:04:37.273Z",
+    "id": "6bd209fe",
+    "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+    "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-31T22:04:38.291Z",
+    "id": "17e634c4",
+    "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+    "url": "https://www.firezone.dev/blog/introducing-sanstun",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-31T22:04:39.300Z",
+    "id": "d6a3cd5b",
+    "title": "Avoid Public Functions Calling Other Public Functions",
+    "url": "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-10-31T22:04:40.305Z",
+    "id": "d0f7949f",
+    "title": "EthanArbuckle/fairplay-decrypt — Offline FairPlay App Store IPA decryption with independent key derivation",
+    "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+    "source": "github",
     "wildcard": true
   }
 ]
