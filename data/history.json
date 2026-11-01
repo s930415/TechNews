@@ -1406,5 +1406,37 @@
     "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
     "source": "github",
     "wildcard": true
+  },
+  {
+    "at": "2026-11-01T22:03:05.561Z",
+    "id": "89307f73",
+    "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+    "url": "https://github.com/ivankovic/omnidiff",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-01T22:03:06.569Z",
+    "id": "afd31b89",
+    "title": "It's the memory latency, stupid",
+    "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-01T22:03:07.579Z",
+    "id": "9aab5ec3",
+    "title": "heydamir/unslop — A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+    "url": "https://github.com/heydamir/unslop",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-01T22:03:08.589Z",
+    "id": "d7e241d7",
+    "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+    "url": "https://arxiv.org/abs/2409.02292",
+    "source": "hn",
+    "wildcard": true
   }
 ]
