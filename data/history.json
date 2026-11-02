@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-09-17T22:04:08.248Z",
-    "id": "f7533cfa",
-    "title": "OpenSpec – A lightweight and configurable AI spec framework",
-    "url": "https://openspec.dev/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-17T22:04:09.274Z",
-    "id": "51dd1051",
-    "title": "bonobomock: A GoogleTest-compatible C++ mocking library",
-    "url": "https://github.com/bloomberg/bonobomock/",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-17T22:04:10.291Z",
-    "id": "1990b508",
-    "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-    "url": "https://ryan.science/blog/keys-not-included",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-17T22:04:11.306Z",
-    "id": "cb9dbf89",
-    "title": "openai/NavierStokesAndEuler — Lean certificates accompanying Navier-Stokes and Euler results",
-    "url": "https://github.com/openai/NavierStokesAndEuler",
-    "source": "github",
-    "wildcard": true
-  },
-  {
     "at": "2026-09-18T22:05:16.188Z",
     "id": "3f8ce213",
     "title": "An empirical study of harness design for coding agents",
@@ -1437,6 +1405,38 @@
     "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
     "url": "https://arxiv.org/abs/2409.02292",
     "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-11-02T22:02:26.308Z",
+    "id": "47232cce",
+    "title": "Moving our warehouse off DuckDB",
+    "url": "https://posthog.com/blog/moving-off-duckdb",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-02T22:02:27.373Z",
+    "id": "f0b4eb6b",
+    "title": "Stop Hardcoding Your Timeouts",
+    "url": "https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-02T22:02:28.443Z",
+    "id": "ec5e2342",
+    "title": "My reflex of assuming our servers need ever-growing amounts of RAM",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ServerRAMGrowthReflex",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-02T22:02:29.504Z",
+    "id": "87eb7b30",
+    "title": "valentderah/totk-pc-recomp — Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+    "url": "https://github.com/valentderah/totk-pc-recomp",
+    "source": "github",
     "wildcard": true
   }
 ]
