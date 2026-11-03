@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-09-18T22:05:16.188Z",
-    "id": "3f8ce213",
-    "title": "An empirical study of harness design for coding agents",
-    "url": "https://arxiv.org/abs/2609.20804",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-18T22:05:17.201Z",
-    "id": "b3566f38",
-    "title": "ZCode, the GLM coding agent, silently uploads your Git history",
-    "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-18T22:05:18.216Z",
-    "id": "df810088",
-    "title": "How Uber Protects Against Retry Storms",
-    "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-18T22:05:19.240Z",
-    "id": "cf65b761",
-    "title": "How SpaceX streamlined the Raptor engine",
-    "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-09-19T22:03:11.743Z",
     "id": "28f5c2de",
     "title": "Tin: full-text search for Postgres",
@@ -1437,6 +1405,38 @@
     "title": "valentderah/totk-pc-recomp — Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
     "url": "https://github.com/valentderah/totk-pc-recomp",
     "source": "github",
+    "wildcard": true
+  },
+  {
+    "at": "2026-11-03T22:02:09.751Z",
+    "id": "de09b072",
+    "title": "Scaling Git at OpenAI",
+    "url": "https://openai.com/index/scaling-git-at-openai/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-03T22:02:10.755Z",
+    "id": "418b9f16",
+    "title": "t3dotgg/tstack — The agent skills I use every day. Works with Claude Code and Codex.",
+    "url": "https://github.com/t3dotgg/tstack",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-03T22:02:11.763Z",
+    "id": "605a80a5",
+    "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+    "url": "https://news.ycombinator.com/item?id=50352757",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-03T22:02:12.770Z",
+    "id": "e6b03977",
+    "title": "V100 SXM2 pinout and NVLink reference",
+    "url": "https://github.com/pigeon-labs-stack/v100-sxm2-reference",
+    "source": "hn",
     "wildcard": true
   }
 ]
