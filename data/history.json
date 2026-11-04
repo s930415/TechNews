@@ -1,69 +1,5 @@
 [
   {
-    "at": "2026-09-19T22:03:11.743Z",
-    "id": "28f5c2de",
-    "title": "Tin: full-text search for Postgres",
-    "url": "https://planetscale.com/blog/introducing-tin",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-19T22:03:12.756Z",
-    "id": "556741f8",
-    "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-    "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-19T22:03:13.769Z",
-    "id": "9aeec529",
-    "title": "We made Playwright 2x faster and 80% more token efficient",
-    "url": "https://github.com/browserbase/stagehand",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-19T22:03:14.783Z",
-    "id": "b3ed2c1e",
-    "title": "How did AMD Ryzen get 50% faster in two years?",
-    "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
-    "at": "2026-09-20T22:03:15.772Z",
-    "id": "6cc7aeef",
-    "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-    "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-20T22:03:16.786Z",
-    "id": "c18243cb",
-    "title": "Deterministic Core, Non-Deterministic Shell",
-    "url": "https://outdata.net/blog/260803",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-20T22:03:17.797Z",
-    "id": "a99e3207",
-    "title": "crwdla/tokentab — A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-    "url": "https://github.com/crwdla/tokentab",
-    "source": "github",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-20T22:03:18.808Z",
-    "id": "921e0122",
-    "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
-    "url": "https://eprint.iacr.org/2026/2039",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-09-21T22:04:31.324Z",
     "id": "015dbc4f",
     "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
@@ -1437,6 +1373,38 @@
     "title": "V100 SXM2 pinout and NVLink reference",
     "url": "https://github.com/pigeon-labs-stack/v100-sxm2-reference",
     "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-11-04T22:03:56.093Z",
+    "id": "aed4d9c6",
+    "title": "A new Go API for JSON",
+    "url": "https://go.dev/blog/jsonv2",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-04T22:03:57.107Z",
+    "id": "67bf2419",
+    "title": "The Internals of PostgreSQL",
+    "url": "https://www.interdb.jp/pg/index.html",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-04T22:03:58.109Z",
+    "id": "6c4117ac",
+    "title": "Told to reboot a server, it destroyed systemd, destroyed containers, ran random",
+    "url": "https://github.com/openai/codex/issues/59060",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-04T22:03:59.113Z",
+    "id": "f04a2f6d",
+    "title": "Planning with open variable lists in Gecode",
+    "url": "https://zayenz.se/blog/post/open-cp-in-gecode/",
+    "source": "lobsters",
     "wildcard": true
   }
 ]
