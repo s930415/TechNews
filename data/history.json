@@ -1406,5 +1406,37 @@
     "url": "https://zayenz.se/blog/post/open-cp-in-gecode/",
     "source": "lobsters",
     "wildcard": true
+  },
+  {
+    "at": "2026-11-05T22:03:09.779Z",
+    "id": "01c9a315",
+    "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
+    "url": "https://github.com/AGGIB/Stroq",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-05T22:03:10.799Z",
+    "id": "50f1b2df",
+    "title": "Context rot in AI agents: How to recognize and fix it",
+    "url": "https://www.thoughtworks.com/insights/blog/generative-ai/what-is-context-rot",
+    "source": "rss",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-05T22:03:11.814Z",
+    "id": "f0e2e8b6",
+    "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+    "url": "https://github.com/rivet-dev/rivet",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-05T22:03:12.834Z",
+    "id": "d60ee459",
+    "title": "Discord is ditching Electron and its new app uses less RAM",
+    "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+    "source": "hn",
+    "wildcard": true
   }
 ]
