@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-09-22T22:04:19.024Z",
-    "id": "74913b77",
-    "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
-    "url": "https://github.com/naw103/foremerge",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-22T22:04:20.069Z",
-    "id": "6a137601",
-    "title": "Writing Rust code that's fast by asking agents to make the code faster",
-    "url": "https://minimaxir.com/2026/09/agentic-iteration/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-22T22:04:21.114Z",
-    "id": "0f02379e",
-    "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
-    "url": "https://droprun.sh/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-22T22:04:22.157Z",
-    "id": "30263718",
-    "title": "HERMES radio enables voice and data communication over vast distances",
-    "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-09-23T22:05:20.088Z",
     "id": "5f54a61a",
     "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
@@ -1436,6 +1404,38 @@
     "id": "20c12781",
     "title": "First steps in bare-metal programming using UEFI",
     "url": "https://kevinboone.me/efitest_index.html",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-11-07T22:03:46.552Z",
+    "id": "594105e3",
+    "title": "The Components of Agent Memory",
+    "url": "https://www.anthropic.com/research/components-of-agent-memory",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-07T22:03:47.564Z",
+    "id": "f441801c",
+    "title": "Firecracker VM Escape: PwnEscape Part 2",
+    "url": "https://pwn.ai/blog/firecracker-escape",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-07T22:03:48.584Z",
+    "id": "92ef84fb",
+    "title": "Bug Finding Considered Harmful?",
+    "url": "https://alperenkeles.com/posts/bug-finding-considered-harmful/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-07T22:03:49.596Z",
+    "id": "c1dca412",
+    "title": "Running a law firm on Free software",
+    "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
     "source": "hn",
     "wildcard": true
   }
