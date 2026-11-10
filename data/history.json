@@ -1406,5 +1406,37 @@
     "url": "https://austinsnerdythings.com/2021/04/19/microsecond-accurate-ntp-with-a-raspberry-pi-and-pps-gps/",
     "source": "lobsters",
     "wildcard": true
+  },
+  {
+    "at": "2026-11-10T22:02:24.226Z",
+    "id": "75af9aae",
+    "title": "Long-horizon agents and durable execution",
+    "url": "https://martinfowler.com/articles/durable-execution-agents.html",
+    "source": "rss",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-10T22:02:25.229Z",
+    "id": "7e896608",
+    "title": "Formalizing CPython",
+    "url": "https://broyojo.com/python-formalization/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-10T22:02:26.232Z",
+    "id": "583511bb",
+    "title": "Software correctness & supply chain security, with Sean Allen",
+    "url": "https://newsletter.pragmaticengineer.com/p/software-correctness",
+    "source": "rss",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-10T22:02:27.241Z",
+    "id": "bb743bd9",
+    "title": "A comprehensive study of how fingerprintable users are",
+    "url": "https://fingerprinting.study/",
+    "source": "hn",
+    "wildcard": true
   }
 ]
