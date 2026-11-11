@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-09-26T22:03:36.569Z",
-    "id": "b040c920",
-    "title": "Is your Postgres migration safe or not safe?",
-    "url": "https://safenotsafe.dev/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-26T22:03:37.623Z",
-    "id": "e9c329cd",
-    "title": "There is more to code review than (automatable) detection",
-    "url": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-26T22:03:38.680Z",
-    "id": "2eb5a414",
-    "title": "Rusty thoughts on \"Parse, don't validate\"",
-    "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-26T22:03:39.734Z",
-    "id": "2fe6a8e3",
-    "title": "A Brief Perspective on Deep Learning Using Common Lisp",
-    "url": "https://www.youtube.com/watch?v=Yo4eqoRC1o0",
-    "source": "lobsters",
-    "wildcard": true
-  },
-  {
     "at": "2026-09-27T22:04:48.817Z",
     "id": "66af2562",
     "title": "Don't couple your Go code to GitHub",
@@ -1437,6 +1405,38 @@
     "title": "A comprehensive study of how fingerprintable users are",
     "url": "https://fingerprinting.study/",
     "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-11-11T22:03:10.573Z",
+    "id": "f8d4c585",
+    "title": "Lock your GitHub Actions",
+    "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-11T22:03:11.581Z",
+    "id": "18d4d40c",
+    "title": "Tests as data: ensuring AI-generated code does what we want",
+    "url": "https://martinfowler.com/articles/tests-as-data.html",
+    "source": "rss",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-11T22:03:12.598Z",
+    "id": "f1b821ae",
+    "title": "Next-Level Benchmarking Overfitting – Thomas Neumann",
+    "url": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-11T22:03:13.635Z",
+    "id": "9d242d66",
+    "title": "Online learning on the programmable dataplane (2022)",
+    "url": "https://theses.gla.ac.uk/83235/3/2022SimpsonPhD.pdf",
+    "source": "lobsters",
     "wildcard": true
   }
 ]
