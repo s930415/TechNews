@@ -1,13 +1,8 @@
 name: tech-radar
 
+# 2026-07-28 排程移到伺服器跑（/srv/scripts/technews.sh，claude CLI 訂閱版，見 llm.ts）
+# 此 workflow 保留手動觸發作為備援（需有效的 ANTHROPIC_API_KEY secret）
 on:
-  schedule:
-    # 台灣時間 06:00 —— 收昨晚的回饋，然後推今天的
-    - cron: '0 22 * * *'
-    # 台灣時間 22:00 —— 只收回饋。
-    # 分兩次是因為 Telegram 的 getUpdates 只保留 24 小時，
-    # 一天撈一次會剛好踩在邊緣，漏掉深夜才點的回饋。
-    - cron: '0 14 * * *'
   workflow_dispatch:
     inputs:
       push:

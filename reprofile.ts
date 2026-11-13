@@ -1,8 +1,6 @@
-import Anthropic from '@anthropic-ai/sdk';
 import { CONFIG } from './config.js';
+import { ask } from './llm.js';
 import { readProfile, writeProfile, readFeedback } from './store.js';
-
-const client = new Anthropic();
 
 const VERDICT_LABEL = {
   like: '有興趣',
@@ -56,19 +54,8 @@ ${log}
 用繁體中文（台灣用語）輸出完整的 Markdown 檔案內容，不要包 code fence，不要任何說明文字。
 第一行是 \`# 興趣輪廓\`，第二行寫 \`最後更新：${new Date().toISOString().slice(0, 10)}（依據 ${feedback.length} 筆回饋）\`。`;
 
-  const msg = await client.messages.create({
-    model: CONFIG.models.reprofile,
-    max_tokens: 2000,
-    system,
-    messages: [{ role: 'user', content: prompt }],
-  });
-
-  const text = msg.content
-    .filter((b): b is Anthropic.TextBlock => b.type === 'text')
-    .map((b) => b.text)
-    .join('')
-    .replace(/```(?:markdown)?/g, '')
-    .trim();
+  const raw = await ask(CONFIG.models.reprofile, system, prompt, 2000);
+  const text = raw.replace(/```(?:markdown)?/g, '').trim();
 
   if (text.length < 50) {
     console.warn('重寫結果異常短，保留原輪廓');
