@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-09-28T22:03:32.162Z",
-    "id": "04b1816a",
-    "title": "The problem is not AI code, but not knowing about system architecture or intent",
-    "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-28T22:03:33.207Z",
-    "id": "b0493435",
-    "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-    "url": "https://earnanhonestdollar.com/bench",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-28T22:03:34.258Z",
-    "id": "414e8180",
-    "title": "DogWood: Monitoring Policies using First Order Temporal Logic",
-    "url": "https://aws.amazon.com/blogs/opensource/introducing-dogwood-runtime-verification-for-ai-agents/",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-28T22:03:35.290Z",
-    "id": "97f7725d",
-    "title": "Self-Hosting on the Dark Web",
-    "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-09-29T22:03:46.293Z",
     "id": "00aaac94",
     "title": "Engineering the harness: A practical pattern for reliable coding agents",
@@ -1436,6 +1404,38 @@
     "id": "c52958cc",
     "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
     "url": "https://github.com/simpsoka/zigzag",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-11-13T22:03:31.261Z",
+    "id": "1b7436ac",
+    "title": "SpecBench: A tool to evaluate AI-enabled software development workflows",
+    "url": "https://www.thoughtworks.com/insights/blog/generative-ai/specbench-tool-evaluate-ai-enabled-software-development-workflows",
+    "source": "rss",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-13T22:03:32.266Z",
+    "id": "03242831",
+    "title": "Attackers are targeting the AI tools that produce our software",
+    "url": "https://www.thoughtworks.com/insights/blog/generative-ai/attackers-are-targeting-the-ai-tools-that-produce-our-software",
+    "source": "rss",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-13T22:03:33.270Z",
+    "id": "98be2f67",
+    "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
+    "url": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-13T22:03:34.283Z",
+    "id": "853e3d7c",
+    "title": "Models can now transmit viruses in weight-space",
+    "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
     "source": "hn",
     "wildcard": true
   }
