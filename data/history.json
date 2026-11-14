@@ -1,69 +1,5 @@
 [
   {
-    "at": "2026-09-29T22:03:46.293Z",
-    "id": "00aaac94",
-    "title": "Engineering the harness: A practical pattern for reliable coding agents",
-    "url": "https://www.thoughtworks.com/insights/blog/architecture/engineering-the-harness-a-practical-pattern-for-reliable-coding-agents",
-    "source": "rss",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-29T22:03:47.327Z",
-    "id": "f550061b",
-    "title": "GrapheneOS – When an app is slow",
-    "url": "https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-29T22:03:48.361Z",
-    "id": "a1ea0140",
-    "title": "My experience writing automated tests for a SPA",
-    "url": "https://reecoute.fr/tech_blog/2026-09-28_my-experience-writing-automated-tests-for-a-spa",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-29T22:03:49.408Z",
-    "id": "845f25dd",
-    "title": "Show HN: NSL – WSL for Linux",
-    "url": "https://frostyard.github.io/nsl/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
-    "at": "2026-09-30T22:03:29.141Z",
-    "id": "33cb5003",
-    "title": "Commit description as a thinking tool",
-    "url": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-30T22:03:30.185Z",
-    "id": "2e3d5dcc",
-    "title": "You said no MCP",
-    "url": "https://earendil.com/posts/you-said-no-mcp/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-30T22:03:31.220Z",
-    "id": "8fcdcbd7",
-    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-    "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-09-30T22:03:32.267Z",
-    "id": "75d9a59f",
-    "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-    "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-10-01T22:03:19.475Z",
     "id": "d270242d",
     "title": "ParadeDB Search Performance Improvements",
@@ -1436,6 +1372,38 @@
     "id": "853e3d7c",
     "title": "Models can now transmit viruses in weight-space",
     "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-11-14T22:04:53.206Z",
+    "id": "14e0892d",
+    "title": "Formalizing US Tax Code (Using Lean)",
+    "url": "https://lexifina.com/blog/formalizing-the-us-tax-code",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-14T22:04:54.221Z",
+    "id": "50457281",
+    "title": "Live-migration support in FreeBSD and bhyve coming",
+    "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-14T22:04:55.240Z",
+    "id": "c7cc9005",
+    "title": "Concurrent Shell Command Queues",
+    "url": "https://emmer.dev/blog/concurrent-shell-command-queues/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-14T22:04:56.321Z",
+    "id": "6cef2aaa",
+    "title": "Demystifying phone unlocking tools: A technical overview",
+    "url": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
     "source": "hn",
     "wildcard": true
   }
