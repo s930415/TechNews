@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-10-01T22:03:19.475Z",
-    "id": "d270242d",
-    "title": "ParadeDB Search Performance Improvements",
-    "url": "https://www.paradedb.com/blog/opening-a-closed-tin",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-01T22:03:20.552Z",
-    "id": "fd33487c",
-    "title": "Is sandboxing sufficient to contain rogue agents?",
-    "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-01T22:03:21.646Z",
-    "id": "9f58bc05",
-    "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
-    "url": "https://blog.gitbutler.com/git-3-sha-256",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-01T22:03:22.728Z",
-    "id": "8395a4e2",
-    "title": "Functional Ultrasound Imaging (fUSI) from scratch",
-    "url": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-10-02T22:03:17.707Z",
     "id": "443750ee",
     "title": "Anatomy of a Lean proof for software engineers",
@@ -1404,6 +1372,38 @@
     "id": "6cef2aaa",
     "title": "Demystifying phone unlocking tools: A technical overview",
     "url": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-11-15T22:03:54.626Z",
+    "id": "7ca073d7",
+    "title": "Disk encryption on NetBSD – achieving secrecy",
+    "url": "https://netbsd.org/~nia/disk-encrypt/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-15T22:03:55.638Z",
+    "id": "c8d55e52",
+    "title": "Lovable apps expose passport details and more than 200K private messages",
+    "url": "https://www.crissyfield.de/research/lovable-en/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-15T22:03:56.653Z",
+    "id": "ec3388a4",
+    "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-15T22:03:57.681Z",
+    "id": "950ac38f",
+    "title": "Understanding Positional Embeddings in Modern LLMs",
+    "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
     "source": "hn",
     "wildcard": true
   }
