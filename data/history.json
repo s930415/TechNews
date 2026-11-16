@@ -1406,5 +1406,37 @@
     "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
     "source": "hn",
     "wildcard": true
+  },
+  {
+    "at": "2026-11-16T22:02:52.850Z",
+    "id": "d4704bee",
+    "title": "Your Agent Will Pick the Hackable One",
+    "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-16T22:02:53.859Z",
+    "id": "1d822775",
+    "title": "Designing nextest's install scripts",
+    "url": "https://sunshowers.io/posts/nextest-install-scripts/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-16T22:02:54.877Z",
+    "id": "3e86de1d",
+    "title": "Quality IMAP, Part 1: Your Mailbox Is A Database",
+    "url": "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-16T22:02:55.874Z",
+    "id": "36340384",
+    "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
+    "url": "https://arkanumdata.com/research/house-trades",
+    "source": "hn",
+    "wildcard": true
   }
 ]
