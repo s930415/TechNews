@@ -1,69 +1,5 @@
 [
   {
-    "at": "2026-10-03T22:03:57.346Z",
-    "id": "febcfecb",
-    "title": "Pop!_OS bans AI-generated code from much of its codebase",
-    "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-03T22:03:58.385Z",
-    "id": "884bedec",
-    "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-    "url": "https://pipod.dev/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-03T22:03:59.439Z",
-    "id": "e0bdbfcb",
-    "title": "The Four Horsemen of Agentic Coding",
-    "url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-03T22:04:00.486Z",
-    "id": "ddac069f",
-    "title": "Cloudflare OHTTP gateway",
-    "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
-    "at": "2026-10-04T22:02:52.291Z",
-    "id": "f896e86c",
-    "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
-    "url": "https://github.com/PowderworksCode/headstart",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-04T22:02:53.329Z",
-    "id": "9c019fba",
-    "title": "Why I recommend Renovate over any other dependency update tools (2024)",
-    "url": "https://www.jvt.me/posts/2024/04/12/use-renovate/",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-04T22:02:54.366Z",
-    "id": "2ad697ea",
-    "title": "Agents don't need memory, they need documentation",
-    "url": "https://liao.gg/blog/agents-dont-need-memory",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-04T22:02:55.428Z",
-    "id": "b7accd4f",
-    "title": "How to hack time, with C2PA",
-    "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-10-05T22:04:17.112Z",
     "id": "c261b367",
     "title": "Incident with Actions",
@@ -1436,6 +1372,38 @@
     "id": "01b922fe",
     "title": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
     "url": "https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-11-19T22:02:50.812Z",
+    "id": "4bb3cf08",
+    "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
+    "url": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-19T22:02:51.819Z",
+    "id": "8129f68e",
+    "title": "erkamyaman/rust-anything — Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, ",
+    "url": "https://github.com/erkamyaman/rust-anything",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-19T22:02:52.832Z",
+    "id": "aae03f5d",
+    "title": "Distributed, high-performance blob storage on SQLite",
+    "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-19T22:02:53.841Z",
+    "id": "205135bc",
+    "title": "Do not buy RAM, compress",
+    "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
     "source": "hn",
     "wildcard": true
   }
