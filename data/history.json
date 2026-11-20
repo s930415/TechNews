@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-10-05T22:04:17.112Z",
-    "id": "c261b367",
-    "title": "Incident with Actions",
-    "url": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-05T22:04:18.171Z",
-    "id": "2e4dd434",
-    "title": "Ephemeral testing",
-    "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-05T22:04:19.257Z",
-    "id": "1cf5e38d",
-    "title": "A 40ms Go garbage collector pause caused by swap",
-    "url": "https://frn.sh/go-gc/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-05T22:04:20.324Z",
-    "id": "08ab9f47",
-    "title": "Making a GTK application in Haskell, part 1",
-    "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-10-06T22:04:28.089Z",
     "id": "f9f039fa",
     "title": "Two ARM64-specific compiler optimization bugs, in GCC 15/16 and Rust, hit curl",
@@ -1404,6 +1372,38 @@
     "id": "205135bc",
     "title": "Do not buy RAM, compress",
     "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-11-20T22:02:42.339Z",
+    "id": "6cd75d08",
+    "title": "If you stop writing code, you also get worse at reviewing it",
+    "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-20T22:02:43.357Z",
+    "id": "180fc892",
+    "title": "Jujutsu Primer",
+    "url": "https://ethanlowman.com/posts/jj-primer/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-20T22:02:44.374Z",
+    "id": "a5874bb7",
+    "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+    "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-20T22:02:45.390Z",
+    "id": "9fe3e937",
+    "title": "Language Models Can Rewrite Their Own Weights",
+    "url": "https://arxiv.org/abs/2611.21885",
     "source": "hn",
     "wildcard": true
   }
