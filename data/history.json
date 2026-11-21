@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-10-06T22:04:28.089Z",
-    "id": "f9f039fa",
-    "title": "Two ARM64-specific compiler optimization bugs, in GCC 15/16 and Rust, hit curl",
-    "url": "https://mastodon.social/@bagder/117392573268225646",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-06T22:04:29.139Z",
-    "id": "ac6a2a5d",
-    "title": "The Early History of Smalltalk (1993)",
-    "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-06T22:04:30.178Z",
-    "id": "388f9a01",
-    "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
-    "url": "https://www.parseable.com",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-06T22:04:31.224Z",
-    "id": "2cb74e6c",
-    "title": "Subquadratic 3SUM and Subcubic APSP",
-    "url": "https://arxiv.org/abs/2610.06783",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-10-07T22:08:10.564Z",
     "id": "f266a14d",
     "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
@@ -1404,6 +1372,38 @@
     "id": "9fe3e937",
     "title": "Language Models Can Rewrite Their Own Weights",
     "url": "https://arxiv.org/abs/2611.21885",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-11-21T22:02:28.406Z",
+    "id": "a2d27828",
+    "title": "PostgreSQL Extensions in Go",
+    "url": "https://jespino.github.io/gopgext/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-21T22:02:29.430Z",
+    "id": "e1a223b7",
+    "title": "We promoted developers into architects without informing them",
+    "url": "https://manidoraisamy.com/developer-to-architect.html",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-21T22:02:30.445Z",
+    "id": "99727b65",
+    "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
+    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-21T22:02:31.476Z",
+    "id": "de6a6b76",
+    "title": "Lean verification of the Riemann Hypothesis",
+    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
     "source": "hn",
     "wildcard": true
   }
