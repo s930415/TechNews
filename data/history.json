@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-10-07T22:08:10.564Z",
-    "id": "f266a14d",
-    "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
-    "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-07T22:08:11.626Z",
-    "id": "027d7080",
-    "title": "Incident with Git Operations, Pull Requests and Actions – Resolved",
-    "url": "https://www.githubstatus.com/incidents/djlmxz2zd0j7",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-07T22:08:12.688Z",
-    "id": "8256e8cc",
-    "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
-    "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-07T22:08:13.741Z",
-    "id": "db59981c",
-    "title": "Integer multiplication below n log n",
-    "url": "https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-10-08T22:03:28.089Z",
     "id": "00069d77",
     "title": "Property Testing with Agent Swarms",
@@ -1404,6 +1372,38 @@
     "id": "de6a6b76",
     "title": "Lean verification of the Riemann Hypothesis",
     "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-11-22T22:02:08.405Z",
+    "id": "f549b28c",
+    "title": "A Better Vocabulary for Testing",
+    "url": "https://alperenkeles.com/posts/vocab-for-testing/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-22T22:02:09.404Z",
+    "id": "c81ec8eb",
+    "title": "GitHub Actions accepts invalid YAML",
+    "url": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-22T22:02:10.405Z",
+    "id": "e688c84a",
+    "title": "Testing Terraform with AWS Emulator",
+    "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-22T22:02:11.409Z",
+    "id": "d26d10b8",
+    "title": "Notes on the discrete Fourier transform (DFT)",
+    "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
     "source": "hn",
     "wildcard": true
   }
