@@ -1,61 +1,5 @@
 [
   {
-    "at": "2026-10-08T22:03:28.089Z",
-    "id": "00069d77",
-    "title": "Property Testing with Agent Swarms",
-    "url": "https://recursion.wtf/posts/agents-and-property-tests/",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-08T22:03:29.130Z",
-    "id": "1b35443c",
-    "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-    "url": "https://github.com/pingdotgg/ts-rust",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-08T22:03:30.178Z",
-    "id": "4490a128",
-    "title": "Real-world lessons in agentic authority and overreach",
-    "url": "https://www.thoughtworks.com/insights/articles/real-world-lessons-agentic-authority-overreach",
-    "source": "rss",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-08T22:03:31.229Z",
-    "id": "507ed3fc",
-    "title": "New CRAM method offers giant boost to compressed memory reads",
-    "url": "https://www.tomshardware.com/software/linux/new-linux-tech-compresses-memory-in-ram-as-ram-for-452x-speedup-new-cram-method-offers-giant-boost-to-compressed-memory-reads",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
-    "at": "2026-10-09T22:04:09.635Z",
-    "id": "cc9c6835",
-    "title": "The Hetzner Cloud network stack – history and technical overview",
-    "url": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-09T22:04:10.689Z",
-    "id": "39b1c476",
-    "title": "Scaling and benchmarking a critical message bus using a new indexing strategy",
-    "url": "https://blog.janestreet.com/scaling-and-benchmarking-a-critical-message-bus/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-09T22:04:11.744Z",
-    "id": "61859197",
-    "title": "64-Day Certificate Lifetimes Coming Feb 2027",
-    "url": "https://letsencrypt.org/2026/10/07/64-day-certs.html",
-    "source": "lobsters",
-    "wildcard": false
-  },
-  {
     "at": "2026-10-09T22:04:12.794Z",
     "id": "623cc6d8",
     "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
@@ -1405,6 +1349,38 @@
     "title": "Notes on the discrete Fourier transform (DFT)",
     "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
     "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-11-23T22:04:08.701Z",
+    "id": "3400785e",
+    "title": "EL4CTEO/fast-anything — Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+    "url": "https://github.com/EL4CTEO/fast-anything",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-23T22:04:09.723Z",
+    "id": "4a5a9b50",
+    "title": "pierridotite/mobile-agent-testers — 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, tran",
+    "url": "https://github.com/pierridotite/mobile-agent-testers",
+    "source": "github",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-23T22:04:10.724Z",
+    "id": "51bc582a",
+    "title": "Don't keep your SSH keys on disk",
+    "url": "https://jola.dev/posts/you-cant-afford-ssh-keys-disk",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-23T22:04:11.730Z",
+    "id": "09f9438d",
+    "title": "pithings/unkernel — A real Linux kernel, compiled to WebAssembly. It boots to a shell in less than a second.",
+    "url": "https://github.com/pithings/unkernel",
+    "source": "github",
     "wildcard": true
   }
 ]
