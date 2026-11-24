@@ -1,13 +1,5 @@
 [
   {
-    "at": "2026-10-09T22:04:12.794Z",
-    "id": "623cc6d8",
-    "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-    "url": "https://carrierexplode.com/",
-    "source": "hn",
-    "wildcard": true
-  },
-  {
     "at": "2026-10-10T22:03:40.598Z",
     "id": "d6321d1e",
     "title": "Why DuckDB 2.0 is faster",
@@ -1381,6 +1373,38 @@
     "title": "pithings/unkernel — A real Linux kernel, compiled to WebAssembly. It boots to a shell in less than a second.",
     "url": "https://github.com/pithings/unkernel",
     "source": "github",
+    "wildcard": true
+  },
+  {
+    "at": "2026-11-24T22:02:48.916Z",
+    "id": "8e9b94fe",
+    "title": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
+    "url": "https://masondata.ai/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-24T22:02:49.935Z",
+    "id": "a0aa230d",
+    "title": "Nightmare mode: simulating disk failures",
+    "url": "https://antithesis.com/blog/2026/nightmare-mode/",
+    "source": "lobsters",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-24T22:02:50.937Z",
+    "id": "7d89f844",
+    "title": "The Power of GraphQL, Without GraphQL",
+    "url": "https://cobalt27.dev/",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-24T22:02:51.936Z",
+    "id": "012f29f7",
+    "title": "The KL Divergence Is Never Negative, Except in PyTorch",
+    "url": "https://arxiv.org/abs/2611.30835",
+    "source": "hn",
     "wildcard": true
   }
 ]
