@@ -1,37 +1,5 @@
 [
   {
-    "at": "2026-10-10T22:03:40.598Z",
-    "id": "d6321d1e",
-    "title": "Why DuckDB 2.0 is faster",
-    "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-10T22:03:41.638Z",
-    "id": "f5584d2b",
-    "title": "Compiling Rust to readable C with Eurydice",
-    "url": "https://lwn.net/Articles/1055211/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-10T22:03:42.679Z",
-    "id": "1949651c",
-    "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
-    "url": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
-    "source": "hn",
-    "wildcard": false
-  },
-  {
-    "at": "2026-10-10T22:03:43.733Z",
-    "id": "12771284",
-    "title": "nullmoth/nvidia-macos-driver — Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
-    "url": "https://github.com/nullmoth/nvidia-macos-driver",
-    "source": "github",
-    "wildcard": true
-  },
-  {
     "at": "2026-10-11T22:03:48.060Z",
     "id": "68fdf4eb",
     "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
@@ -1404,6 +1372,38 @@
     "id": "012f29f7",
     "title": "The KL Divergence Is Never Negative, Except in PyTorch",
     "url": "https://arxiv.org/abs/2611.30835",
+    "source": "hn",
+    "wildcard": true
+  },
+  {
+    "at": "2026-11-25T22:02:48.018Z",
+    "id": "f13df2f7",
+    "title": "I checked Clojure's core with Lean and found unreported bugs",
+    "url": "https://s.conao3.com/blog/2026/e4f733",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-25T22:02:49.029Z",
+    "id": "8bc07deb",
+    "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
+    "url": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
+    "source": "rss",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-25T22:02:50.051Z",
+    "id": "d568eabb",
+    "title": "Fable 5.2 tries less on some hard tasks when a shortcut is available",
+    "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
+    "source": "hn",
+    "wildcard": false
+  },
+  {
+    "at": "2026-11-25T22:02:51.055Z",
+    "id": "ffad6616",
+    "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+    "url": "https://github.com/xoxorwr/pw-loudness-eq",
     "source": "hn",
     "wildcard": true
   }
